@@ -9,7 +9,7 @@ system_installs:
 
 dev_installs:
 	# Installing PIP.
-	curl -L https://bootstrap.pypa.io/get-pip.py | sudo python
+	curl -L https://bootstrap.pypa.io/get-pip.py | python
 	# Installing NVM.
 	curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash
 	# Setting up SSH Keys.
