@@ -1,0 +1,55 @@
+sw_volume: 100
+audio_device_state:1:Audio Output :D
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:indigo la End - Kanashikunaru Mae ni[2015.06.17]/01 悲しくなる前に.m4a
+1:indigo la End - Kanashikunaru Mae ni[2015.06.17]/03 夏夜のマジック.m4a
+2:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/01 Midori No Shoujo.mp3
+3:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/02 Himitsu No Kingyo.mp3
+4:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/03 Yume De Aetara.mp3
+5:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/04 Warhol.mp3
+6:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/05 Yoru No Kouen.mp3
+7:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/06 John Curtis.mp3
+8:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/07 Mudai.mp3
+9:indigo la End - Sayounara.Subarashii Sekai[2012.4.11]/08 Subarashii Sekai.mp3
+10:indigo la End - Nagisa nite [2012.09.05]/01 楽園.mp3
+11:indigo la End - Nagisa nite [2012.09.05]/02 レナは朝を奪ったみたいだ.mp3
+12:indigo la End - Nagisa nite [2012.09.05]/03 海辺カラス.mp3
+13:indigo la End - Nagisa nite [2012.09.05]/04 渚にて幻.mp3
+14:indigo la End - Nagisa nite [2012.09.05]/05 el..mp3
+15:indigo la End - Nagisa nite [2012.09.05]/06 雫.mp3
+16:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/01. sweet spider.mp3
+17:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/02. she.mp3
+18:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/03. Daiteiden no Yoru ni.mp3
+19:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/04. Kyuu no Kuusou.mp3
+20:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/05. Kanojo no Soudan.mp3
+21:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/06. SPOON de Kanpai.mp3
+22:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/07. Dakishimete.mp3
+23:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/08. Mari no Kaisou.mp3
+24:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/09. SWELL.mp3
+25:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/10. fake street.mp3
+26:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/11. X day.mp3
+27:indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]/12. Ame no Mahou.mp3
+28:indigo la End - Ano Machi Record [2014.04.02]/01 indigo la End - 夜明けの街でサヨナラを.mp3
+29:indigo la End - Ano Machi Record [2014.04.02]/02 indigo la End - 名もなきハッピーエンド.mp3
+30:indigo la End - Ano Machi Record [2014.04.02]/03 indigo la End - Billion Billion.mp3
+31:indigo la End - Ano Machi Record [2014.04.02]/04 indigo la End - あの街の帰り道.mp3
+32:indigo la End - Ano Machi Record [2014.04.02]/05 indigo la End - 染まるまで.mp3
+33:indigo la End - Ano Machi Record [2014.04.02]/06 indigo la End - ダビングシーン.mp3
+34:indigo la End - Ano Machi Record [2014.04.02]/07 indigo la End - Mudai.mp3
+35:indigo la End - Ano Machi Record [2014.04.02]/08 indigo la End - アリスは突然に.mp3
+36:indigo la End - Hitomi ni Utsuranai[2014.09.24]/01.m4a
+37:indigo la End - Hitomi ni Utsuranai[2014.09.24]/03.m4a
+38:indigo la End - Hitomi ni Utsuranai[2014.09.24]/04.m4a
+39:indigo la End - Hitomi ni Utsuranai[2014.09.24]/02.m4a
+40:indigo la End - Sayonara Bell[2014.12.24]/01 Sayonara Bell.m4a
+41:indigo la End - Sayonara Bell[2014.12.24]/02 Sly Queen.m4a
+playlist_end

@@ -5,10 +5,14 @@ export ZSH=/home/yayu/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="agnoster_custom"
+ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphen-insensitive completion. Case
+# sensitive completion must be off. _ and - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
 # DISABLE_AUTO_UPDATE="true"
@@ -49,7 +53,7 @@ plugins=(git)
 
 # User configuration
 
-export PATH="$PATH:/home/yayu/.rvm/gems/ruby-2.2.1/bin:/home/yayu/.rvm/gems/ruby-2.2.1@global/bin:/home/yayu/.rvm/rubies/ruby-2.2.1/bin:/home/yayu/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -78,6 +82,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export NVM_DIR="/home/yayu/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

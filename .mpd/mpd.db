@@ -1,0 +1,4978 @@
+info_begin
+format: 1
+mpd_version: 0.18.7
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: (2014-12-17) HAVE A NICE DAY
+mtime: 1436897857
+begin: (2014-12-17) HAVE A NICE DAY
+song_begin: 01 IMPERIALISM..mp3
+Time: 333
+Artist: WORLD ORDER
+Title: IMPERIALISM
+Album: HAVE A NICE DAY
+Track: 1/8
+Date: 2014
+Composer: Genki Sudo / Takashi Watanabe
+Disc: 2/3
+mtime: 1425205656
+song_end
+song_begin: 02 LAST DANCE..mp3
+Time: 249
+Artist: WORLD ORDER
+Title: LAST DANCE
+Album: HAVE A NICE DAY
+Track: 2/8
+Date: 2014
+Composer: Genki Sudo / Takashi Watanabe
+Disc: 2/3
+mtime: 1425205655
+song_end
+song_begin: 03 THIS IS LIFE..mp3
+Time: 250
+Artist: WORLD ORDER
+Title: THIS IS LIFE
+Album: HAVE A NICE DAY
+Track: 3/8
+Date: 2014
+Composer: Takashi Watanabe
+Disc: 2/3
+mtime: 1425205655
+song_end
+song_begin: 04 HAVE A NICE DAY..mp3
+Time: 241
+Artist: WORLD ORDER
+Title: HAVE A NICE DAY
+Album: HAVE A NICE DAY
+Track: 4/8
+Date: 2014
+Composer: Genki Sudo
+Disc: 2/3
+mtime: 1425205653
+song_end
+song_begin: 05 INFORMAL EMPIRE..mp3
+Time: 281
+Artist: WORLD ORDER
+Title: INFORMAL EMPIRE
+Album: HAVE A NICE DAY
+Track: 5/8
+Date: 2014
+Composer: Genki Sudo / Takashi Watanabe
+Disc: 2/3
+mtime: 1425205656
+song_end
+song_begin: 06 WORLD ORDER -Welcome to TOKYO Remix-..mp3
+Time: 271
+Artist: WORLD ORDER
+Title: WORLD ORDER -Welcome to TOKYO Remix-
+Album: HAVE A NICE DAY
+Track: 6/8
+Date: 2014
+Composer: Genki Sudo / Wall5, Mariko Nanba, Takatsugu Shimazu
+Disc: 2/3
+mtime: 1425205655
+song_end
+song_begin: 07 MACHINE CIVILIZATION -Inner Child Remix-..mp3
+Time: 360
+Artist: WORLD ORDER
+Title: MACHINE CIVILIZATION -Inner Child Remix-
+Album: HAVE A NICE DAY
+Track: 7/8
+Date: 2014
+Composer: Genki Sudo / Takashi Watanabe
+Disc: 2/3
+mtime: 1425205656
+song_end
+song_begin: 08 AQUARIUS -3.8 Remix-..mp3
+Time: 288
+Artist: WORLD ORDER
+Title: AQUARIUS -3.8 Remix-
+Album: HAVE A NICE DAY
+Track: 8/8
+Date: 2014
+Composer: Genki Sudo / ICE BACH
+Disc: 2/3
+mtime: 1425205654
+song_end
+end: (2014-12-17) HAVE A NICE DAY
+directory: AdventureDroshky Alexandros
+mtime: 1436887755
+begin: AdventureDroshky Alexandros
+song_begin: 01 Adenture.m4a
+Time: 270
+Artist: [Alexandros]
+Album: Adventure/Droshky!
+Title: Adenture
+Track: 1/4
+Genre: ロック
+Date: 2014-06-18T07:00:00Z
+Composer: 川上洋平
+Disc: 1/1
+AlbumArtist: [Alexandros]
+mtime: 1403190007
+song_end
+song_begin: 02 Droshky!.m4a
+Time: 243
+Artist: [Alexandros]
+Album: Adventure/Droshky!
+Title: Droshky!
+Track: 2/4
+Genre: ロック
+Date: 2014-06-18T07:00:00Z
+Composer: 川上洋平
+Disc: 1/1
+AlbumArtist: [Alexandros]
+mtime: 1403190007
+song_end
+song_begin: 03 Thunder.m4a
+Time: 270
+Artist: [Alexandros]
+Album: Adventure/Droshky!
+Title: Thunder
+Track: 3/4
+Genre: ロック
+Date: 2014-06-18T07:00:00Z
+Composer: 川上洋平
+Disc: 1/1
+AlbumArtist: [Alexandros]
+mtime: 1403190008
+song_end
+song_begin: 04 Untitled(Live at Budokan 2014.3.2.m4a
+Time: 381
+Artist: [Alexandros]
+Album: Adventure/Droshky!
+Title: Untitled(Live at Budokan 2014.3.28)
+Track: 4/4
+Genre: ロック
+Date: 2014-06-18T07:00:00Z
+Composer: 川上洋平
+Disc: 1/1
+AlbumArtist: [Alexandros]
+mtime: 1403190008
+song_end
+end: AdventureDroshky Alexandros
+directory: Aoi Yuuki - Bijumenia[2014.01.29]
+mtime: 1436888031
+begin: Aoi Yuuki - Bijumenia[2014.01.29]
+song_begin: 01.mp3
+Time: 254
+Artist: 悠木碧
+Title: ビジュメニア
+Album: ビジュメニア
+Track: 1/5
+Date: 2014
+Genre: Anime
+mtime: 1391143696
+song_end
+song_begin: 02.mp3
+Time: 231
+Artist: 悠木碧
+Title: くちひげ泡バルーン
+Album: ビジュメニア
+Track: 2/5
+Date: 2014
+Genre: Anime
+mtime: 1391143696
+song_end
+song_begin: 03.mp3
+Time: 254
+Artist: 悠木碧
+Title: ビジュメニア (without Aoi)
+Album: ビジュメニア
+Track: 3/5
+Date: 2014
+Genre: Anime
+mtime: 1391143696
+song_end
+song_begin: 04.mp3
+Time: 232
+Artist: 悠木碧
+Title: くちひげ泡バルーン (without Aoi)
+Album: ビジュメニア
+Track: 4/5
+Date: 2014
+Genre: Anime
+mtime: 1391143696
+song_end
+song_begin: 05.mp3
+Time: 96
+Artist: 悠木碧
+Title: くちひげ泡バルーン (お出かけVer.)
+Album: ビジュメニア
+Track: 5/5
+Date: 2014
+Genre: Anime
+mtime: 1391143696
+song_end
+end: Aoi Yuuki - Bijumenia[2014.01.29]
+directory: Aoi Yuuki - Ishmel (Ishumeru)[2015.02.11]
+mtime: 1436888372
+begin: Aoi Yuuki - Ishmel (Ishumeru)[2015.02.11]
+song_begin: 1.01.SWEET HOME-悠木碧.mp3
+Time: 318
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: SWEET HOME
+Album: イシュメル
+Track: 1
+Date: 2015
+Genre: J-Pop
+mtime: 1423893755
+song_end
+song_begin: 1.02.アールデコラージュ ラミラージュ-悠木碧.mp3
+Time: 289
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: アールデコラージュ ラミラージュ
+Album: イシュメル
+Track: 2
+Date: 2015
+Genre: J-Pop
+mtime: 1423893756
+song_end
+song_begin: 1.03.ビジュメニア ('14 1月Sg.)-悠木碧.mp3
+Time: 254
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: ビジュメニア (&#039;14 1月Sg.)
+Album: イシュメル
+Track: 3
+Date: 2015
+Genre: J-Pop
+mtime: 1423893756
+song_end
+song_begin: 1.04.twinkAtrick-悠木碧.mp3
+Time: 329
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: twinkAtrick
+Album: イシュメル
+Track: 4
+Date: 2015
+Genre: J-Pop
+mtime: 1423893756
+song_end
+song_begin: 1.05.たゆたうかなた-悠木碧.mp3
+Time: 297
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: たゆたうかなた
+Album: イシュメル
+Track: 5
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+song_begin: 1.06.迷宮舞踏会-悠木碧.mp3
+Time: 218
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: 迷宮舞踏会
+Album: イシュメル
+Track: 6
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+song_begin: 1.07.ロッキングチェアー揺れて-悠木碧.mp3
+Time: 288
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: ロッキングチェアー揺れて
+Album: イシュメル
+Track: 7
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+song_begin: 1.08.ソラミミPiZZiCATO-悠木碧.mp3
+Time: 7
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: ソラミミPiZZiCATO
+Album: イシュメル
+Track: 8
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+song_begin: 1.09.ダスティー！ダスティーストマック-悠木碧.mp3
+Time: 251
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: ダスティー！ダスティーストマック
+Album: イシュメル
+Track: 9
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+song_begin: 1.10.クピドゥレビュー ('14 4月Sg.)-悠木碧.mp3
+Time: 287
+Artist: 悠木碧
+AlbumArtist: 悠木碧
+Title: クピドゥレビュー (&#039;14 4月Sg.)
+Album: イシュメル
+Track: 10
+Date: 2015
+Genre: J-Pop
+mtime: 1423893757
+song_end
+end: Aoi Yuuki - Ishmel (Ishumeru)[2015.02.11]
+directory: Champagne - starrrrrrr & Namida ga Koboresou [2013.01.23][320kbps]
+mtime: 1436890941
+begin: Champagne - starrrrrrr & Namida ga Koboresou [2013.01.23][320kbps]
+song_begin: 01 ｓｔａｒｒｒｒｒｒｒ（ｆｅａｔ．ＧＥＲＯＣＫ）.mp3
+Time: 297
+Artist: Champagne
+AlbumArtist: mbn
+Title: iDfdqnbjj
+Album: bÜª±Úê»¤
+Track: 1
+Date: 2013
+Genre: Pop
+mtime: 1363378344
+song_end
+song_begin: 02 涙がこぼれそう.mp3
+Time: 244
+Artist: Champagne
+AlbumArtist: mbn
+Title: Üª±Úê»¤
+Album: bÜª±Úê»¤
+Track: 2
+Date: 2013
+Genre: Pop
+mtime: 1363378344
+song_end
+song_begin: 03 １２／２６以降の年末ソング（Ｌｉｖｅ　ａｔ　ＳＨＩＢＵＹＡ－ＡＸ）.mp3
+Time: 361
+Artist: Champagne
+AlbumArtist: mbn
+Title: PQ^QUÈ~ÌN\Oik@@rghatx`|`wj
+Album: bÜª±Úê»¤
+Track: 3
+Date: 2013
+Genre: Pop
+mtime: 1363378344
+song_end
+end: Champagne - starrrrrrr & Namida ga Koboresou [2013.01.23][320kbps]
+directory: Chimame-Tai - Poppin Jump [2014.05.28]
+mtime: 1436890961
+begin: Chimame-Tai - Poppin Jump [2014.05.28]
+directory: MP3
+mtime: 1436944454
+begin: Chimame-Tai - Poppin Jump [2014.05.28]/MP3
+song_begin: 01. ぽっぴんジャンプ♪.mp3
+Time: 240
+Artist: チマメ隊
+Title: ぽっぴんジャンプ♪
+Album: ぽっぴんジャンプ♪
+Track: 1/5
+Date: 2014
+Genre: Anime
+mtime: 1401247443
+song_end
+song_begin: 02. ぽっぴんジャンプ♪ (～チノ～ ソロVer.).mp3
+Time: 240
+Artist: チノ(CV.水瀬いのり)
+Title: ぽっぴんジャンプ♪ (～チノ～ ソロVer.)
+Album: ぽっぴんジャンプ♪
+Track: 2/5
+Date: 2014
+Genre: Anime
+mtime: 1401247444
+song_end
+song_begin: 03. ぽっぴんジャンプ♪ (～マヤ～ ソロVer.).mp3
+Time: 240
+Artist: マヤ(CV.徳井青空)
+Title: ぽっぴんジャンプ♪ (～マヤ～ ソロVer.)
+Album: ぽっぴんジャンプ♪
+Track: 3/5
+Date: 2014
+Genre: Anime
+mtime: 1401247443
+song_end
+song_begin: 04. ぽっぴんジャンプ♪ (～メグ～ ソロVer.).mp3
+Time: 240
+Artist: メグ(CV.村川梨衣)
+Title: ぽっぴんジャンプ♪ (～メグ～ ソロVer.)
+Album: ぽっぴんジャンプ♪
+Track: 4/5
+Date: 2014
+Genre: Anime
+mtime: 1401247440
+song_end
+end: Chimame-Tai - Poppin Jump [2014.05.28]/MP3
+end: Chimame-Tai - Poppin Jump [2014.05.28]
+directory: Dimension Tripper!!!! [2013.07.24]
+mtime: 1436891059
+begin: Dimension Tripper!!!! [2013.07.24]
+song_begin: 01. Dimension Tripper!!!!.mp3
+Time: 256
+Artist: nao
+AlbumArtist: nao
+Title: Dimension Tripper!!!!
+Album: Dimension Tripper!!!!
+Track: 1
+Date: 2013
+Genre: Jpop
+mtime: 1374691608
+song_end
+song_begin: 02. Hard Beat×Break Beat.mp3
+Time: 230
+Artist: nao
+AlbumArtist: nao
+Title: Hard Beat×Break Beat
+Album: Dimension Tripper!!!!
+Track: 2
+Date: 2013
+Genre: Jpop
+mtime: 1374691613
+song_end
+end: Dimension Tripper!!!! [2013.07.24]
+directory: FREDERICK - oddloop[2014.09.24]
+mtime: 1436891349
+begin: FREDERICK - oddloop[2014.09.24]
+song_begin: 01 オドループ.m4a
+Time: 255
+Artist: フレデリック
+Album: oddloop
+Title: オドループ
+Track: 1/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586555
+song_end
+song_begin: 02 ディスコプール.m4a
+Time: 273
+Artist: フレデリック
+Album: oddloop
+Title: ディスコプール
+Track: 2/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586729
+song_end
+song_begin: 03 幸せっていう怪物.m4a
+Time: 241
+Artist: フレデリック
+Album: oddloop
+Title: 幸せっていう怪物
+Track: 3/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586826
+song_end
+song_begin: 04 砂利道.m4a
+Time: 256
+Artist: フレデリック
+Album: oddloop
+Title: 砂利道
+Track: 4/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586744
+song_end
+song_begin: 05 もう帰る汽船.m4a
+Time: 234
+Artist: フレデリック
+Album: oddloop
+Title: もう帰る汽船
+Track: 5/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586705
+song_end
+song_begin: 06 うわさのケムリの女の子.m4a
+Time: 214
+Artist: フレデリック
+Album: oddloop
+Title: うわさのケムリの女の子
+Track: 6/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411586854
+song_end
+song_begin: 07 人魚のはなし.m4a
+Time: 279
+Artist: フレデリック
+Album: oddloop
+Title: 人魚のはなし
+Track: 7/7
+Genre: ロック
+Date: 2014-09-24T07:00:00Z
+Disc: 1/1
+AlbumArtist: フレデリック
+mtime: 1411587127
+song_end
+end: FREDERICK - oddloop[2014.09.24]
+directory: Frederic - OWARASE NIGHT
+mtime: 1436891230
+begin: Frederic - OWARASE NIGHT
+song_begin: 1. オワラセナイト.mp3
+Time: 264
+Artist: tfbN
+Title: IZiCg
+Album: OWARASE NIGHT
+Track: 1/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929007
+song_end
+song_begin: 2. DNAです.mp3
+Time: 218
+Artist: tfbN
+Title: DNAÅ·
+Album: OWARASE NIGHT
+Track: 2/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929030
+song_end
+song_begin: 3. シャンデレラ.mp3
+Time: 236
+Artist: tfbN
+Title: Vf
+Album: OWARASE NIGHT
+Track: 3/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929050
+song_end
+song_begin: 4. どうにもこうにも.mp3
+Time: 226
+Artist: tfbN
+Title: Ç¤Éà±¤Éà
+Album: OWARASE NIGHT
+Track: 4/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929064
+song_end
+song_begin: 5. セーターを脱がさないで.mp3
+Time: 259
+Artist: tfbN
+Title: Z[^[ðEª³È¢Å
+Album: OWARASE NIGHT
+Track: 5/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929079
+song_end
+song_begin: 6. 愛の迷惑.mp3
+Time: 206
+Artist: tfbN
+Title: ¤ÌÀf
+Album: OWARASE NIGHT
+Track: 6/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929107
+song_end
+song_begin: 7. さよならカーテン .mp3
+Time: 255
+Artist: tfbN
+Title: ³æÈçJ[e
+Album: OWARASE NIGHT
+Track: 7/7
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1430929130
+song_end
+end: Frederic - OWARASE NIGHT
+directory: Gesu no Kiwami Otome. - Miryoku ga Sugoi yo [2014.10.29]
+mtime: 1436891501
+begin: Gesu no Kiwami Otome. - Miryoku ga Sugoi yo [2014.10.29]
+song_begin: 01 ラスカ.m4a
+Time: 238
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: ラスカ
+Track: 1/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474354
+song_end
+song_begin: 02 デジタルモグラ.m4a
+Time: 217
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: デジタルモグラ
+Track: 2/11
+Genre: ポップ
+Date: 2013-12-04T08:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474354
+song_end
+song_begin: 03 crying march.m4a
+Time: 202
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: crying march
+Track: 3/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474351
+song_end
+song_begin: 04 星降る夜に花束を.m4a
+Time: 193
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: 星降る夜に花束を
+Track: 4/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474354
+song_end
+song_begin: 05 列車クラシックさん.m4a
+Time: 131
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: 列車クラシックさん
+Track: 5/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474354
+song_end
+song_begin: 06 猟奇的なキスを私にして.m4a
+Time: 237
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: 猟奇的なキスを私にして
+Track: 6/11
+Genre: ポップ
+Date: 2013-12-04T08:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474352
+song_end
+song_begin: 07 サリーマリー.m4a
+Time: 310
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: サリーマリー
+Track: 7/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474354
+song_end
+song_begin: 08 ruins.m4a
+Time: 49
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: ruins
+Track: 8/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474355
+song_end
+song_begin: 09 アソビ.m4a
+Time: 158
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: アソビ
+Track: 9/11
+Genre: ポップ
+Date: 2013-12-04T08:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474353
+song_end
+song_begin: 10 光を忘れた.m4a
+Time: 237
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: 光を忘れた
+Track: 10/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474352
+song_end
+song_begin: 11 bye-bye 999.m4a
+Time: 369
+Artist: ゲスの極み乙女。
+Album: 魅力がすごいよ
+Title: bye-bye 999
+Track: 11/11
+Genre: J-Pop
+Date: 2014-10-28T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: ゲスの極み乙女。
+mtime: 1414474352
+song_end
+end: Gesu no Kiwami Otome. - Miryoku ga Sugoi yo [2014.10.29]
+directory: Gesu no Kiwami Otome. - Odorenainara, Gesu ni Natte Shimaeyo[2013.12.04]
+mtime: 1436891614
+begin: Gesu no Kiwami Otome. - Odorenainara, Gesu ni Natte Shimaeyo[2013.12.04]
+song_begin: 01 Killer Ball.m4a
+Time: 289
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: キラーボール 
+Track: 1/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238861
+song_end
+song_begin: 02 Mochi Girl.m4a
+Time: 224
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: 餅ガール
+Track: 2/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238861
+song_end
+song_begin: 04 Gesuna Sankaku Kankei.m4a
+Time: 327
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: ゲスな三角関係
+Track: 3/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238861
+song_end
+song_begin: 03 Thread Dance.m4a
+Time: 207
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: スレッドダンス
+Track: 4/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238861
+song_end
+song_begin: 05 Ikoka Nadeshiko.m4a
+Time: 81
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: いこかなでしこ
+Track: 5/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238816
+song_end
+song_begin: 06 Jajauma San.m4a
+Time: 115
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: jajaumasan
+Track: 6/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238795
+song_end
+song_begin: 07 Hatsumi.m4a
+Time: 238
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: ハツミ
+Track: 7/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238836
+song_end
+song_begin: 08 White Waltz.m4a
+Time: 267
+Artist: ゲスの極み乙女。
+Album: 踊れないなら、ゲスになってしまえよ
+Title: ホワイトワルツ
+Track: 8/8
+Genre: J-Pop
+Date: 2013-12-04T08:00:00Z
+Disc: 1/1
+AlbumArtist: Gesu No Kiwami Otome
+mtime: 1386238863
+song_end
+end: Gesu no Kiwami Otome. - Odorenainara, Gesu ni Natte Shimaeyo[2013.12.04]
+directory: Gesu no Kiwami Otome. - Romance ga Ariamaru [2015.06.16]
+mtime: 1436891660
+begin: Gesu no Kiwami Otome. - Romance ga Ariamaru [2015.06.16]
+song_begin: Track 01.mp3
+Time: 225
+Artist: ゲスの極み乙女。
+Title: ロマンスがありあまる
+Album: ロマンスがありあまる
+Track: 1/3
+mtime: 1434478919
+song_end
+song_begin: Track 02.mp3
+Time: 205
+Artist: ゲスの極み乙女。
+Title: サイデンティティ
+Album: ロマンスがありあまる
+Track: 2/3
+mtime: 1434478920
+song_end
+song_begin: Track 03.mp3
+Time: 239
+Artist: ゲスの極み乙女。
+Title: Ink
+Album: ロマンスがありあまる
+Track: 3/3
+mtime: 1434478920
+song_end
+end: Gesu no Kiwami Otome. - Romance ga Ariamaru [2015.06.16]
+directory: Gesu no Kiwami Otome. - Watashi Igai Watashi Janai No
+mtime: 1436891743
+begin: Gesu no Kiwami Otome. - Watashi Igai Watashi Janai No
+song_begin: Track 01.mp3
+Time: 233
+Artist: ゲスの極み乙女。
+Title: 私以外私じゃないの
+Album: 私以外私じゃないの
+Track: 1/4
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1429725074
+song_end
+song_begin: Track 02.mp3
+Time: 252
+Artist: ゲスの極み乙女。
+Title: ルミリー
+Album: 私以外私じゃないの
+Track: 2/4
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1429725076
+song_end
+song_begin: Track 03.mp3
+Time: 318
+Artist: ゲスの極み乙女。
+Title: パラレルスペック (funky ver.)
+Album: 私以外私じゃないの
+Track: 3/4
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1429725077
+song_end
+song_begin: Track 04.mp3
+Time: 130
+Artist: ゲスの極み乙女。
+Title: But I'm lonely
+Album: 私以外私じゃないの
+Track: 4/4
+Date: 2015
+Genre: J-Pop
+Disc: 1/1
+mtime: 1429725079
+song_end
+end: Gesu no Kiwami Otome. - Watashi Igai Watashi Janai No
+directory: Girls Dead Monster - Million Star [2015.06.26]
+mtime: 1436944443
+begin: Girls Dead Monster - Million Star [2015.06.26]
+song_begin: (01)  Million Star.mp3
+Time: 291
+Artist: Girls Dead Monster
+Title: Million Star
+Album: Million Star
+Track: 01
+Date: 2015
+Genre: Soundtrack
+mtime: 1435366549
+song_end
+end: Girls Dead Monster - Million Star [2015.06.26]
+directory: Hiroyuki Sawano - theDOGS [2015.07.01]
+mtime: 1436944436
+begin: Hiroyuki Sawano - theDOGS [2015.07.01]
+song_begin: 01. theDOGS.mp3
+Time: 276
+Artist: mpi
+Title: theDOGS
+Album: theDOGS
+Track: 1/5
+Date: 2015
+Genre: Anime
+mtime: 1435724017
+song_end
+song_begin: 02. YAMANAIAME ＜FMv＞.mp3
+Time: 268
+Artist: Mica Caldito
+Title: YAMANAIAME <FMv>
+Album: theDOGS
+Track: 2/5
+Date: 2015
+Genre: Anime
+mtime: 1435724016
+song_end
+song_begin: 03. TheWeightOfLives.mp3
+Time: 441
+Artist: 澤野弘之
+Title: TheWeightOfLives
+Album: theDOGS
+Track: 3/5
+Date: 2015
+Genre: Anime
+mtime: 1435724016
+song_end
+end: Hiroyuki Sawano - theDOGS [2015.07.01]
+directory: Hiroyuki Sawano [nZk] - &Z [2015.02.04][320kbps]
+mtime: 1436944431
+begin: Hiroyuki Sawano [nZk] - &Z [2015.02.04][320kbps]
+song_begin: 01 &Z.mp3
+Time: 281
+Artist: Hiroyuki Sawano/[nZk]
+Title: &Z
+Album: &Z
+Track: 01
+Date: 2015
+mtime: 1422691295
+song_end
+song_begin: 02 0.vers.mp3
+Time: 328
+Artist: Hiroyuki Sawano/[nZk]
+Title: 0.vers
+Album: &Z
+Track: 02
+Date: 2015
+mtime: 1422691296
+song_end
+song_begin: 03 No differences [nZk ver.].mp3
+Time: 278
+Artist: Hiroyuki Sawano/[nZk]
+Title: No differences [nZk ver.]
+Album: &Z
+Track: 03
+Date: 2015
+mtime: 1422691296
+song_end
+song_begin: 04 aLIEz [mZk ver.].mp3
+Time: 243
+Artist: Hiroyuki Sawano/[nZk]
+Title: aLIEz [mZk ver.]
+Album: &Z
+Track: 04
+Date: 2015
+mtime: 1422691296
+song_end
+end: Hiroyuki Sawano [nZk] - &Z [2015.02.04][320kbps]
+directory: IDOL COLLEGE - True End Player[2014.12.03]
+mtime: 1436892171
+begin: IDOL COLLEGE - True End Player[2014.12.03]
+song_begin: 01. True End Player.mp3
+Time: 243
+Artist: Idol College
+AlbumArtist: アイドルカレッジ
+Title: True End Player
+Album: True End Player
+Track: 1
+Date: 2014
+Genre: J-Pop
+mtime: 1418240235
+song_end
+song_begin: 02. Hikari no Naka e.mp3
+Time: 324
+Artist: Idol College
+AlbumArtist: アイドルカレッジ
+Title: Hikari no Naka e
+Album: True End Player
+Track: 2
+Date: 2014
+Genre: J-Pop
+mtime: 1418240235
+song_end
+song_begin: 02. Myself.mp3
+Time: 223
+Artist: Idol College
+AlbumArtist: アイドルカレッジ
+Title: Myself
+Album: True End Player
+Track: 2
+Date: 2014
+Genre: J-Pop
+mtime: 1418240235
+song_end
+end: IDOL COLLEGE - True End Player[2014.12.03]
+directory: KANA-BOON - Full Drive[2014.05.21]
+mtime: 1436893860
+begin: KANA-BOON - Full Drive[2014.05.21]
+song_begin: 01 フルドライブ.m4a
+Time: 196
+Artist: KANA-BOON
+Album: フルドライブ
+Title: フルドライブ
+Track: 1/3
+Genre: ロック
+Date: 2014-05-21T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1400751370
+song_end
+song_begin: 02 レピドシレン.m4a
+Time: 197
+Artist: KANA-BOON
+Album: フルドライブ
+Title: レピドシレン
+Track: 2/3
+Genre: ロック
+Date: 2014-05-21T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1400751370
+song_end
+song_begin: 03 夜のマーチ.m4a
+Time: 264
+Artist: KANA-BOON
+Album: フルドライブ
+Title: 夜のマーチ
+Track: 3/3
+Genre: ロック
+Date: 2014-05-21T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1400751371
+song_end
+end: KANA-BOON - Full Drive[2014.05.21]
+directory: KANA-BOON - Ikiteyuku[2014.08.27]
+mtime: 1436893900
+begin: KANA-BOON - Ikiteyuku[2014.08.27]
+song_begin: 01 生きてゆく.m4a
+Time: 269
+Artist: KANA-BOON
+Album: 生きてゆ
+Title: 生きてゆく
+Track: 1/3
+Genre: ロック
+Date: 2014-08-27T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1409118754
+song_end
+song_begin: 02 日は落ち、また繰り返す.m4a
+Time: 243
+Artist: KANA-BOON
+Album: 生きてゆ
+Title: 日は落ち、また繰り返す
+Track: 2/3
+Genre: ロック
+Date: 2014-08-27T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1409118754
+song_end
+song_begin: 03 ロックンロールスター.m4a
+Time: 190
+Artist: KANA-BOON
+Album: 生きてゆ
+Title: ロックンロールスター
+Track: 3/3
+Genre: ロック
+Date: 2014-08-27T07:00:00Z
+Composer: 谷口鮪
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1409118754
+song_end
+end: KANA-BOON - Ikiteyuku[2014.08.27]
+directory: KANA-BOON - Nandemonedari[2015.05.13]
+mtime: 1436893952
+begin: KANA-BOON - Nandemonedari[2015.05.13]
+song_begin: 01 なんでもねだり.m4a
+Time: 317
+Artist: KANA-BOON
+Album: なんでもねだり
+Title: なんでもねだり
+Track: 1/3
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1431542088
+song_end
+song_begin: 02 watch!!.m4a
+Time: 222
+Artist: KANA-BOON
+Album: なんでもねだり
+Title: watch!!
+Track: 2/3
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1431542088
+song_end
+song_begin: 03 タイムトリッパー.m4a
+Time: 221
+Artist: KANA-BOON
+Album: なんでもねだり
+Title: タイムトリッパー
+Track: 3/3
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1431542088
+song_end
+end: KANA-BOON - Nandemonedari[2015.05.13]
+directory: KANA-BOON - Silhouette[2014.11.26]
+mtime: 1436893994
+begin: KANA-BOON - Silhouette[2014.11.26]
+song_begin: 01 シルエット.mp3
+Time: 242
+Artist: KANA-BOON
+AlbumArtist: KANA-BOON
+Title: シルエット
+Album: シルエット
+Track: 1/3
+Date: 2014
+Genre: Rock
+Disc: 1/1
+mtime: 1417068413
+song_end
+song_begin: 02 ワカラズヤ.mp3
+Time: 226
+Artist: KANA-BOON
+AlbumArtist: KANA-BOON
+Title: ワカラズヤ
+Album: シルエット
+Track: 2/3
+Date: 2014
+Genre: Rock
+Disc: 1/1
+mtime: 1417068418
+song_end
+song_begin: 03 バカ.mp3
+Time: 213
+Artist: KANA-BOON
+AlbumArtist: KANA-BOON
+Title: バカ
+Album: シルエット
+Track: 3/3
+Date: 2014
+Genre: Rock
+Disc: 1/1
+mtime: 1417068437
+song_end
+end: KANA-BOON - Silhouette[2014.11.26]
+directory: KANA-BOON - TIME[2015.01.21]
+mtime: 1436894152
+begin: KANA-BOON - TIME[2015.01.21]
+song_begin: 01 タイムアウト.m4a
+Time: 189
+Artist: KANA-BOON
+Album: TIME
+Title: タイムアウト
+Track: 1/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 02 LOL.m4a
+Time: 199
+Artist: KANA-BOON
+Album: TIME
+Title: LOL
+Track: 2/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 03 ターミナル.m4a
+Time: 212
+Artist: KANA-BOON
+Album: TIME
+Title: ターミナル
+Track: 3/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 04 結晶星.m4a
+Time: 312
+Artist: KANA-BOON
+Album: TIME
+Title: 結晶星
+Track: 4/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 05 クラクション.m4a
+Time: 223
+Artist: KANA-BOON
+Album: TIME
+Title: クラクション
+Track: 5/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 06 フルドライブ.m4a
+Time: 196
+Artist: KANA-BOON
+Album: TIME
+Title: フルドライブ
+Track: 6/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 07 生きてゆく.m4a
+Time: 264
+Artist: KANA-BOON
+Album: TIME
+Title: 生きてゆく
+Track: 7/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 08 スコールスコール.m4a
+Time: 253
+Artist: KANA-BOON
+Album: TIME
+Title: スコールスコール
+Track: 8/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 09 愛にまみれて.m4a
+Time: 298
+Artist: KANA-BOON
+Album: TIME
+Title: 愛にまみれて
+Track: 9/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 10 シルエット.m4a
+Time: 240
+Artist: KANA-BOON
+Album: TIME
+Title: シルエット
+Track: 10/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 11 スノーグローブ.m4a
+Time: 253
+Artist: KANA-BOON
+Album: TIME
+Title: スノーグローブ
+Track: 11/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+song_begin: 12 パレード.m4a
+Time: 265
+Artist: KANA-BOON
+Album: TIME
+Title: パレード
+Track: 12/12
+Genre: J-Pop
+Date: 2015
+Disc: 1/1
+AlbumArtist: KANA-BOON
+mtime: 1421951040
+song_end
+end: KANA-BOON - TIME[2015.01.21]
+directory: Kana Hanasawa 25
+mtime: 1436893067
+begin: Kana Hanasawa 25
+directory: CD1
+mtime: 1436893049
+begin: Kana Hanasawa 25/CD1
+song_begin: 01. バースデイ.mp3
+Time: 69
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: バースデイ
+Album: 25
+Track: 1/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422176
+song_end
+song_begin: 02. 25 Hours a Day.mp3
+Time: 253
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 25 Hours a Day
+Album: 25
+Track: 2/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422210
+song_end
+song_begin: 03. Brand New Days.mp3
+Time: 221
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Brand New Days
+Album: 25
+Track: 3/25
+Date: 2014
+Genre: アニメ
+Composer: 矢野博康
+Disc: 1/1
+mtime: 1393422198
+song_end
+song_begin: 04. 恋する惑星.mp3
+Time: 292
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 恋する惑星
+Album: 25
+Track: 4/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422208
+song_end
+song_begin: 05. マラソン.mp3
+Time: 272
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: マラソン
+Album: 25
+Track: 5/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422206
+song_end
+song_begin: 06. YESTERDAY BOYFRIEND.mp3
+Time: 290
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: YESTERDAY BOYFRIEND
+Album: 25
+Track: 6/25
+Date: 2014
+Genre: アニメ
+Composer: 奥田健介
+Disc: 1/1
+mtime: 1393422212
+song_end
+song_begin: 07. 無邪気なキミと真夏のメロディ.mp3
+Time: 242
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 無邪気なキミと真夏のメロディ
+Album: 25
+Track: 7/25
+Date: 2014
+Genre: アニメ
+Composer: 中塚武
+Disc: 1/1
+mtime: 1393422226
+song_end
+song_begin: 08. Make a Difference.mp3
+Time: 260
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Make a Difference
+Album: 25
+Track: 8/25
+Date: 2014
+Genre: アニメ
+Composer: ミト
+Disc: 1/1
+mtime: 1393422260
+song_end
+song_begin: 09. 旅立つ彼女と古い背表紙.mp3
+Time: 270
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 旅立つ彼女と古い背表紙
+Album: 25
+Track: 9/25
+Date: 2014
+Genre: アニメ
+Composer: 沖井礼二
+Disc: 1/1
+mtime: 1393422306
+song_end
+song_begin: 10. Summer Sunset.mp3
+Time: 262
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Summer Sunset
+Album: 25
+Track: 10/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422354
+song_end
+song_begin: 11. 同心円上のディスタンス.mp3
+Time: 249
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 同心円上のディスタンス
+Album: 25
+Track: 11/25
+Date: 2014
+Genre: アニメ
+Composer: 宮川弾
+Disc: 1/1
+mtime: 1393422342
+song_end
+song_begin: 12. flattery.mp3
+Time: 238
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: flattery?
+Album: 25
+Track: 12/25
+Date: 2014
+Genre: アニメ
+Composer: 古川本舗
+Disc: 1/1
+mtime: 1393422398
+song_end
+song_begin: 13. Waltz for Praha.mp3
+Time: 233
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Waltz for Praha
+Album: 25
+Track: 13/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422386
+song_end
+end: Kana Hanasawa 25/CD1
+directory: CD2
+mtime: 1436893260
+begin: Kana Hanasawa 25/CD2
+song_begin: 14. 片思いが世界を救う.mp3
+Time: 235
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 片思いが世界を救う
+Album: 25
+Track: 14/25
+Date: 2014
+Genre: アニメ
+Composer: 宮川弾
+Disc: 1/1
+mtime: 1393422418
+song_end
+song_begin: 15. ダエンケイ.mp3
+Time: 238
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: ダエンケイ
+Album: 25
+Track: 15/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422454
+song_end
+song_begin: 16. パパ、アイ・ラブ・ユー!!.mp3
+Time: 228
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: パパ、アイ・ラブ・ユー!!
+Album: 25
+Track: 16/25
+Date: 2014
+Genre: アニメ
+Composer: カジヒデキ
+Disc: 1/1
+mtime: 1393422472
+song_end
+song_begin: 17. Eeny, meeny, miny, moe.mp3
+Time: 245
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Eeny, meeny, miny, moe
+Album: 25
+Track: 17/25
+Date: 2014
+Genre: アニメ
+Composer: 白神真志朗
+Disc: 1/1
+mtime: 1393422478
+song_end
+song_begin: 18. 粉雪.mp3
+Time: 95
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 粉雪
+Album: 25
+Track: 18/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422430
+song_end
+song_begin: 19. Young Oh! Oh!.mp3
+Time: 161
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Young Oh! Oh!
+Album: 25
+Track: 19/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422472
+song_end
+song_begin: 20. 曖昧な世界.mp3
+Time: 230
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 曖昧な世界
+Album: 25
+Track: 20/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422482
+song_end
+song_begin: 21. 真夜中の秘密会議.mp3
+Time: 246
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 真夜中の秘密会議
+Album: 25
+Track: 21/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422488
+song_end
+song_begin: 22. Merry Go Round.mp3
+Time: 250
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Merry Go Round
+Album: 25
+Track: 22/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422518
+song_end
+song_begin: 23. last contrast.mp3
+Time: 268
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: last contrast
+Album: 25
+Track: 23/25
+Date: 2014
+Genre: アニメ
+Composer: 小出祐介
+Disc: 1/1
+mtime: 1393422520
+song_end
+song_begin: 24. 花びら.mp3
+Time: 372
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: 花びら
+Album: 25
+Track: 24/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422522
+song_end
+song_begin: 25. Good Conversation.mp3
+Time: 232
+Artist: 花澤 香菜
+AlbumArtist: 花澤 香菜
+Title: Good Conversation
+Album: 25
+Track: 25/25
+Date: 2014
+Genre: アニメ
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1393422524
+song_end
+end: Kana Hanasawa 25/CD2
+end: Kana Hanasawa 25
+directory: Kana Hanazawa - Blue Avenue [2015.04.22]
+mtime: 1436893547
+begin: Kana Hanazawa - Blue Avenue [2015.04.22]
+song_begin: 01 I ♥ New Day !.mp3
+Time: 337
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: I ♥ New Day !
+Album: Blue Avenue
+Track: 1/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493690
+song_end
+song_begin: 02 ほほ笑みモード.mp3
+Time: 294
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: ほほ笑みモード
+Album: Blue Avenue
+Track: 2/14
+Date: 2015
+Genre: Soundtrack
+Composer: Studio Apartment
+Disc: 1/1
+mtime: 1429493682
+song_end
+song_begin: 03 Nobody Knows.mp3
+Time: 342
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: Nobody Knows
+Album: Blue Avenue
+Track: 3/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493684
+song_end
+song_begin: 04 ブルーベリーナイト.mp3
+Time: 249
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: ブルーベリーナイト
+Album: Blue Avenue
+Track: 4/14
+Date: 2015
+Genre: Soundtrack
+Composer: 宮川弾
+Disc: 1/1
+mtime: 1429493687
+song_end
+song_begin: 05 Trace.mp3
+Time: 224
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: Trace
+Album: Blue Avenue
+Track: 5/14
+Date: 2015
+Genre: Soundtrack
+Composer: mito
+Disc: 1/1
+mtime: 1429493687
+song_end
+song_begin: 06 こきゅうとす.mp3
+Time: 315
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: こきゅうとす
+Album: Blue Avenue
+Track: 6/14
+Date: 2015
+Genre: Soundtrack
+Composer: ティカ・α
+Disc: 1/1
+mtime: 1429493694
+song_end
+song_begin: 07 Night And Day.mp3
+Time: 257
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: Night And Day
+Album: Blue Avenue
+Track: 7/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493683
+song_end
+song_begin: 08 タップダンスの音が聴こえてきたら.mp3
+Time: 153
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: タップダンスの音が聴こえてきたら
+Album: Blue Avenue
+Track: 8/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493688
+song_end
+song_begin: 09 We Are So in Love.mp3
+Time: 289
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: We Are So in Love
+Album: Blue Avenue
+Track: 9/14
+Date: 2015
+Genre: Soundtrack
+Composer: 矢野博康
+Disc: 1/1
+mtime: 1429493690
+song_end
+song_begin: 10 プール.mp3
+Time: 308
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: プール
+Album: Blue Avenue
+Track: 10/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493692
+song_end
+song_begin: 11 Dream A Dream.mp3
+Time: 278
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: Dream A Dream
+Album: Blue Avenue
+Track: 11/14
+Date: 2015
+Genre: Soundtrack
+Composer: Andy Connell、Corinne Drewery (Swing Out Sister)
+Disc: 1/1
+mtime: 1429493692
+song_end
+song_begin: 12 マジカル・ファンタジー・ツアー.mp3
+Time: 250
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: マジカル・ファンタジー・ツアー
+Album: Blue Avenue
+Track: 12/14
+Date: 2015
+Genre: Soundtrack
+Composer: 中塚武
+Disc: 1/1
+mtime: 1429493688
+song_end
+song_begin: 13 君がいなくちゃだめなんだ.mp3
+Time: 314
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: 君がいなくちゃだめなんだ
+Album: Blue Avenue
+Track: 13/14
+Date: 2015
+Genre: Soundtrack
+Composer: 北川勝利
+Disc: 1/1
+mtime: 1429493685
+song_end
+song_begin: 14 Blue Avenue を探して.mp3
+Time: 266
+Artist: 花澤香菜
+AlbumArtist: 花澤香菜
+Title: Blue Avenue を探して
+Album: Blue Avenue
+Track: 14/14
+Date: 2015
+Genre: Soundtrack
+Composer: 奥田健介
+Disc: 1/1
+mtime: 1429493682
+song_end
+end: Kana Hanazawa - Blue Avenue [2015.04.22]
+directory: Kana Hanazawa - Cocytus(2014.12.24)
+mtime: 1436944390
+begin: Kana Hanazawa - Cocytus(2014.12.24)
+song_begin: 01. Cocytus.mp3
+Time: 318
+Artist: 花澤香菜
+Title: こきゅうとす
+Album: こきゅうとす
+Track: 1/6
+Date: 2014
+Genre: JPop
+Disc: 1/1
+mtime: 1419477090
+song_end
+song_begin: 02. Abracadabra Kataomoi.mp3
+Time: 246
+Artist: 花澤香菜
+Title: アブラカタブラ片思い
+Album: こきゅうとす
+Track: 2/6
+Date: 2014
+Genre: JPop
+Disc: 1/1
+mtime: 1419477090
+song_end
+song_begin: 03. Cocytus [Tenkoku] remixed by itoken.mp3
+Time: 312
+Artist: 花澤香菜
+Title: /こきゅうとす【天国】remixed by itoken
+Album: こきゅうとす
+Track: 3/6
+Date: 2014
+Genre: JPop
+Disc: 1/1
+mtime: 1419477091
+song_end
+song_begin: 04. Abracadabra Kataomoi [Majo] remixed by molt beats.mp3
+Time: 265
+Artist: 花澤香菜
+Title: /アブラカタブラ片思い【魔女】remixed by molt beats
+Album: こきゅうとす
+Track: 4/6
+Date: 2014
+Genre: JPop
+Disc: 1/1
+mtime: 1419477091
+song_end
+end: Kana Hanazawa - Cocytus(2014.12.24)
+directory: Kana Hanazawa - Happy Endings [2012.10.24][320kbps]
+mtime: 1436944384
+begin: Kana Hanazawa - Happy Endings [2012.10.24][320kbps]
+song_begin: 01 - happy endings.mp3
+Time: 263
+Artist: Hanazawa Kana
+Title: happy endings
+Album: Zetsuen no Tempest ED Single - happy endings
+Track: 1/4
+Date: 2012
+Genre: Anime
+mtime: 1357493208
+song_end
+song_begin: 02 - too late for chocolate.mp3
+Time: 264
+Artist: Hanazawa Kana
+Title: too late for chocolate?
+Album: Zetsuen no Tempest ED Single - happy endings
+Track: 2/4
+Date: 2012
+Genre: Anime
+mtime: 1357493217
+song_end
+song_begin: 03 - trick or treat!.mp3
+Time: 277
+Artist: Hanazawa Kana
+Title: trick or treat!
+Album: Zetsuen no Tempest ED Single - happy endings
+Track: 3/4
+Date: 2012
+Genre: Anime
+mtime: 1357493225
+song_end
+end: Kana Hanazawa - Happy Endings [2012.10.24][320kbps]
+directory: Kana Hanazawa - Hohoemi Mode [2014.10.01]
+mtime: 1436944381
+begin: Kana Hanazawa - Hohoemi Mode [2014.10.01]
+song_begin: 1 ほほ笑みモード.mp3
+Time: 295
+Artist: 花澤香菜
+Title: Hohoemi Mode (ほほ笑みモード)
+Album: ほほ笑みモード
+Track: 1/4
+Date: 2014
+Genre: JPop
+mtime: 1412017433
+song_end
+song_begin: 2 Timeless.mp3
+Time: 249
+Artist: 花澤香菜
+Title: Timeless
+Album: ほほ笑みモード
+Track: 2/4
+Date: 2014
+Genre: JPop
+mtime: 1412017434
+song_end
+song_begin: 3 MOMENT.mp3
+Time: 352
+Artist: 花澤香菜
+Title: MOMENT
+Album: ほほ笑みモード
+Track: 3/4
+Date: 2014
+Genre: JPop
+mtime: 1412017433
+song_end
+end: Kana Hanazawa - Hohoemi Mode [2014.10.01]
+directory: Kuso Iinkai - Jyunai, Yue ni Shoaku Setsu[2014.10.08]
+mtime: 1436894297
+begin: Kuso Iinkai - Jyunai, Yue ni Shoaku Setsu[2014.10.08]
+song_begin: 01 純愛、故に性悪説.m4a
+Time: 244
+Artist: 空想委員会
+Album: 純愛、故に性悪説
+Title: 純愛、故に性悪説
+Track: 1/3
+Genre: Rock
+Date: 2014-10-08T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1413208078
+song_end
+song_begin: 02 モテ期予備軍.m4a
+Time: 183
+Artist: 空想委員会
+Album: 純愛、故に性悪説
+Title: モテ期予備軍
+Track: 2/3
+Genre: Rock
+Date: 2014-10-08T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1413208078
+song_end
+song_begin: 03 インスタントときめき.m4a
+Time: 180
+Artist: 空想委員会
+Album: 純愛、故に性悪説
+Title: インスタントときめき
+Track: 3/3
+Genre: Rock
+Date: 2014-10-08T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1413208078
+song_end
+end: Kuso Iinkai - Jyunai, Yue ni Shoaku Setsu[2014.10.08]
+directory: Kuso Iinkai - Kuuso Katakoi Makuranososhi
+mtime: 1436894352
+begin: Kuso Iinkai - Kuuso Katakoi Makuranososhi
+song_begin: 01 春恋、覚醒.m4a
+Time: 207
+Artist: 空想委員会
+Album: 空想片恋枕草子
+Title: 春恋、覚醒
+Track: 1/4
+Genre: ロック
+Date: 2015-01-21T08:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1425696419
+song_end
+song_begin: 02 作戦コード_夏祭り.m4a
+Time: 242
+Artist: 空想委員会
+Album: 空想片恋枕草子
+Title: 作戦コード:夏祭り
+Track: 2/4
+Genre: ロック
+Date: 2015-01-21T08:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1425696419
+song_end
+song_begin: 03 秋暮れタイムカプセル.m4a
+Time: 219
+Artist: 空想委員会
+Album: 空想片恋枕草子
+Title: 秋暮れタイムカプセル
+Track: 3/4
+Genre: ロック
+Date: 2015-01-21T08:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1425696419
+song_end
+song_begin: 04 マフラー少女.m4a
+Time: 235
+Artist: 空想委員会
+Album: 空想片恋枕草子
+Title: マフラー少女
+Track: 4/4
+Genre: ロック
+Date: 2015-01-21T08:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1425696419
+song_end
+end: Kuso Iinkai - Kuuso Katakoi Makuranososhi
+directory: Kuso iinkai - Kuusou Kenbun Roku
+mtime: 1436894396
+begin: Kuso iinkai - Kuusou Kenbun Roku
+song_begin: 01.mp3
+Time: 226
+Artist: 空想委員会
+Title: 波動砲ガールフレンド
+Album: 空想見聞録
+Track: 1/4
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1374340866
+song_end
+song_begin: 02.mp3
+Time: 198
+Artist: 空想委員会
+Title: 美女眼鏡
+Album: 空想見聞録
+Track: 2/4
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1374340866
+song_end
+song_begin: 03.mp3
+Time: 242
+Artist: 空想委員会
+Title: 千里眼
+Album: 空想見聞録
+Track: 3/4
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1374340866
+song_end
+song_begin: 04.mp3
+Time: 224
+Artist: 空想委員会
+Title: 零距離シンドローム
+Album: 空想見聞録
+Track: 4/4
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1374340866
+song_end
+end: Kuso iinkai - Kuusou Kenbun Roku
+directory: SHISHAMO - SHISHAMO[2013.11.13]
+mtime: 1436895057
+begin: SHISHAMO - SHISHAMO[2013.11.13]
+song_begin: 01 僕に彼女ができたんだ.m4a
+Time: 189
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 僕に彼女ができたんだ
+Track: 1/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384479766
+song_end
+song_begin: 02 行きたくない.m4a
+Time: 264
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 行きたくない
+Track: 2/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384480176
+song_end
+song_begin: 03 あの子のバラード.m4a
+Time: 227
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: あの子のバラード
+Track: 3/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384480449
+song_end
+song_begin: 04 こんな僕そんな君.m4a
+Time: 307
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: こんな僕そんな君
+Track: 4/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384481029
+song_end
+song_begin: 05 休日.m4a
+Time: 227
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 休日
+Track: 5/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384482239
+song_end
+song_begin: 06 がたんごとん.m4a
+Time: 268
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: がたんごとん
+Track: 6/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384482416
+song_end
+song_begin: 07 深夜のラジオ.m4a
+Time: 287
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 深夜のラジオ
+Track: 7/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384482535
+song_end
+song_begin: 08 バンドマン.m4a
+Time: 312
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: バンドマン
+Track: 8/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384483818
+song_end
+song_begin: 09 サブギターの歌.m4a
+Time: 272
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: サブギターの歌
+Track: 9/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384483928
+song_end
+song_begin: 10 君との事.m4a
+Time: 271
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 君との事
+Track: 10/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384484146
+song_end
+song_begin: 11 恋する.m4a
+Time: 372
+Artist: SHISHAMO
+Album: SHISHAMO
+Title: 恋する
+Track: 11/11
+Genre: Rock
+Date: 2013-11-13T08:00:00Z
+Disc: 1/1
+AlbumArtist: SHISHAMO
+mtime: 1384484380
+song_end
+end: SHISHAMO - SHISHAMO[2013.11.13]
+directory: SHISHAMO 2
+mtime: 1436895250
+begin: SHISHAMO 2
+song_begin: Shishamo - 01. Boku, Jitsuwa.mp3
+Time: 201
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Boku, Jitsuwa
+Album: SHISHAMO 2
+Track: 1/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530862
+song_end
+song_begin: Shishamo - 02. Kimi to Hanasenainowa.mp3
+Time: 268
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Kimi to Hanasenainowa
+Album: SHISHAMO 2
+Track: 2/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530864
+song_end
+song_begin: Shishamo - 03. Kanojo No Nichiyoubi.mp3
+Time: 233
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Kanojo No Nichiyoubi
+Album: SHISHAMO 2
+Track: 3/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530866
+song_end
+song_begin: Shishamo - 04. Tomodachi.mp3
+Time: 264
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Tomodachi
+Album: SHISHAMO 2
+Track: 4/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530868
+song_end
+song_begin: Shishamo - 05. Kimi to Natsu Fes..mp3
+Time: 226
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Kimi to Natsu Fes.
+Album: SHISHAMO 2
+Track: 5/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530868
+song_end
+song_begin: Shishamo - 06. Ryousangata Kareshi.mp3
+Time: 278
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Ryousangata Kareshi
+Album: SHISHAMO 2
+Track: 6/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530870
+song_end
+song_begin: Shishamo - 07. Renai Kyuuka.mp3
+Time: 246
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Renai Kyuuka
+Album: SHISHAMO 2
+Track: 7/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530894
+song_end
+song_begin: Shishamo - 08. Chuuya Gyakuten.mp3
+Time: 242
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Chuuya Gyakuten
+Album: SHISHAMO 2
+Track: 8/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530898
+song_end
+song_begin: Shishamo - 09. Date Plan.mp3
+Time: 213
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Date Plan
+Album: SHISHAMO 2
+Track: 9/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530900
+song_end
+song_begin: Shishamo - 10. Hana.mp3
+Time: 242
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Hana
+Album: SHISHAMO 2
+Track: 10/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530902
+song_end
+song_begin: Shishamo - 11. Sayonara No Kisetsu.mp3
+Time: 346
+Artist: SHISHAMO
+AlbumArtist: SHISHAMO
+Title: Sayonara No Kisetsu
+Album: SHISHAMO 2
+Track: 11/11
+Date: 2015
+Genre: Rock
+Disc: 1/1
+mtime: 1425530904
+song_end
+end: SHISHAMO 2
+directory: Satomi Sato - Mirai Night[2014.02.26]
+mtime: 1436944344
+begin: Satomi Sato - Mirai Night[2014.02.26]
+song_begin: 01. Mirai Night.mp3
+Time: 248
+Artist: 佐藤聡美
+Title: ミライナイト
+Album: ミライナイト
+Track: 1/4
+Date: 2014
+Genre: Anime
+mtime: 1393778334
+song_end
+song_begin: 02. Brave Morning!!.mp3
+Time: 242
+Artist: 佐藤聡美
+Title: Brave Morning!!
+Album: ミライナイト
+Track: 2/4
+Date: 2014
+Genre: Anime
+mtime: 1393778335
+song_end
+end: Satomi Sato - Mirai Night[2014.02.26]
+directory: Supercell (2008)
+mtime: 1436895510
+begin: Supercell (2008)
+song_begin: supercell - Koi wa Sensō.mp3
+Time: 238
+Artist: supercell
+AlbumArtist: supercell
+Title: Koi wa Sensō
+Album: Supercell
+Track: 1
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995577
+song_end
+song_begin: supercell - Heartbreaker.mp3
+Time: 261
+Artist: supercell
+AlbumArtist: supercell
+Title: Heartbreaker
+Album: Supercell
+Track: 2
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995583
+song_end
+song_begin: supercell - Melt.mp3
+Time: 257
+Artist: supercell
+AlbumArtist: supercell
+Title: Melt
+Album: Supercell
+Track: 3
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995581
+song_end
+song_begin: supercell - Black ★ Rock Shooter.mp3
+Time: 293
+Artist: supercell
+AlbumArtist: supercell
+Title: Black ★ Rock Shooter
+Album: Supercell
+Track: 4
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995591
+song_end
+song_begin: supercell - Kurukuru Mark no Sugoi.mp3
+Time: 223
+Artist: supercell
+AlbumArtist: supercell
+Title: Kurukuru Mark no Sugoi
+Album: Supercell
+Track: 5
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995592
+song_end
+song_begin: supercell - Line.mp3
+Time: 295
+Artist: supercell
+AlbumArtist: supercell
+Title: Line
+Album: Supercell
+Track: 6
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995597
+song_end
+song_begin: supercell - World is Mine.mp3
+Time: 253
+Artist: supercell
+AlbumArtist: supercell
+Title: World is Mine
+Album: Supercell
+Track: 7
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995592
+song_end
+song_begin: 初音ミク - Hajimete no Koi ga Owaru Toki.mp3
+Time: 317
+Artist: supercell
+AlbumArtist: supercell
+Title: Hajimete no Koi ga Owaru Toki
+Album: Supercell
+Track: 8
+Date: 2009
+Genre: Vocaloid
+Composer: Ryo
+mtime: 1412996499
+song_end
+song_begin: supercell - Usotsuki no Parade.mp3
+Time: 235
+Artist: supercell
+AlbumArtist: supercell
+Title: Usotsuki no Parade
+Album: Supercell
+Track: 9
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995603
+song_end
+song_begin: supercell - Sono Ichibyō Slow Motion.mp3
+Time: 248
+Artist: supercell
+AlbumArtist: supercell
+Title: Sono Ichibyō Slow Motion
+Album: Supercell
+Track: 10
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995606
+song_end
+song_begin: supercell - Hinekuremono.mp3
+Time: 254
+Artist: supercell
+AlbumArtist: supercell
+Title: Hinekuremono
+Album: Supercell
+Track: 11
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995612
+song_end
+song_begin: supercell - Mata ne.mp3
+Time: 42
+Artist: supercell
+AlbumArtist: supercell
+Title: Mata ne
+Album: Supercell
+Track: 12
+Date: 2009
+Genre: J-Pop
+Composer: Ryo
+mtime: 1412995606
+song_end
+end: Supercell (2008)
+directory: World's End Girlfriend x Vampillia - Arishi Hi no Koe Voices of Days Past [2015.04.29]
+mtime: 1436944324
+begin: World's End Girlfriend x Vampillia - Arishi Hi no Koe Voices of Days Past [2015.04.29]
+song_begin: 01 春日狂想 (feat. BOOL).mp3
+Time: 375
+Artist: World's End Girlfriend/BOOL
+AlbumArtist: World's End Girlfriend
+Title: 春日狂想 (feat. BOOL)
+Album: Voices of Days Past
+Track: 1
+Date: 2015
+mtime: 1430750087
+song_end
+song_begin: 02 頑是ない歌 (feat. Smany).mp3
+Time: 444
+Artist: World's End Girlfriend/Smany
+AlbumArtist: World's End Girlfriend
+Title: 頑是ない歌 (feat. Smany)
+Album: Voices of Days Past
+Track: 2
+Date: 2015
+mtime: 1430750088
+song_end
+song_begin: 03 宿酔.mp3
+Time: 152
+Artist: Vampillia
+AlbumArtist: World's End Girlfriend
+Title: 宿酔
+Album: Voices of Days Past
+Track: 3
+Date: 2015
+mtime: 1430750086
+song_end
+song_begin: 04 死別の翌日.mp3
+Time: 402
+Artist: Vampillia
+AlbumArtist: World's End Girlfriend
+Title: 死別の翌日
+Album: Voices of Days Past
+Track: 4
+Date: 2015
+mtime: 1430750087
+song_end
+end: World's End Girlfriend x Vampillia - Arishi Hi no Koe Voices of Days Past [2015.04.29]
+directory: YUIKAORI - Bunny[2013.10.23]
+mtime: 1436896138
+begin: YUIKAORI - Bunny[2013.10.23]
+song_begin: 1 ウェイカッ!!.mp3
+Time: 267
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Wake Up!!
+Album: Bunny
+Track: 1
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 2 君が世界で世界は君で.mp3
+Time: 245
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Kimi ga Sekai de Sekai ha Kimi de
+Album: Bunny
+Track: 2
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 3 圧倒的な GO!!.mp3
+Time: 229
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Attouteki na Go!!
+Album: Bunny
+Track: 3
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 4 Blitzallies.mp3
+Time: 241
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Blitzallies
+Album: Bunny
+Track: 4
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 5 in Wonderful Wonder.mp3
+Time: 263
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: In Wonderful Wonder (Yui Ogura)
+Album: Bunny
+Track: 5
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 6 Sunny Ray Beam!!.mp3
+Time: 252
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Sunny Ray Beam!! (Kaori Ishihara)
+Album: Bunny
+Track: 6
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 7 Shiny Blue.mp3
+Time: 238
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Shiny Blue
+Album: Bunny
+Track: 7
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 8 翼になるよ.mp3
+Time: 284
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Tsubasa ni Naruyo
+Album: Bunny
+Track: 8
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 9 marble.mp3
+Time: 300
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Marble
+Album: Bunny
+Track: 9
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 10 君のYELL.mp3
+Time: 285
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Kimi no Yell
+Album: Bunny
+Track: 10
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 11 Jumpin’ Bunny Flash!!.mp3
+Time: 311
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Jumpin' Bunny Flash!!
+Album: Bunny
+Track: 11
+Date: 2013
+Genre: JPop
+mtime: 1382840658
+song_end
+song_begin: 12 星降る夜のハッピーリンク.mp3
+Time: 267
+Artist: ゆいかおり
+AlbumArtist: YuiKaori
+Title: Hoshi Furu Yoru no Happy Link
+Album: Bunny
+Track: 12
+Date: 2013
+Genre: JPop
+mtime: 1382840659
+song_end
+end: YUIKAORI - Bunny[2013.10.23]
+directory: Yuikaori - Puppy[2011.9.21]
+mtime: 1436896355
+begin: Yuikaori - Puppy[2011.9.21]
+song_begin: 01 Koi No Over Take.mp3
+Time: 281
+Artist: Yuikaori
+Title: Koi No Over Take
+Album: Puppy
+Track: 1
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 02 Puppy Love!!.mp3
+Time: 243
+Artist: Yuikaori
+Title: PUPPY LOVE!!
+Album: Puppy
+Track: 2
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 03 Miraigata Idol.mp3
+Time: 224
+Artist: Yuikaori
+Title: Miraigata Idol
+Album: Puppy
+Track: 3
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 04 Vivivid Party!.mp3
+Time: 261
+Artist: Yuikaori
+Title: VIVIVID PARTY!
+Album: Puppy
+Track: 4
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 05 Kyu!kyu!curiosity!!.mp3
+Time: 245
+Artist: Yuikaori
+Title: Kyu!kyu!curiosity!!
+Album: Puppy
+Track: 5
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 06 Magic Starter.mp3
+Time: 245
+Artist: Yuikaori
+Title: Magic starter
+Album: Puppy
+Track: 6
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 07 Futari.mp3
+Time: 246
+Artist: Yuikaori
+Title: Futari
+Album: Puppy
+Track: 7
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 08 Kakenukete Blue.mp3
+Time: 245
+Artist: Yuikaori
+Title: Kakenukete Blue
+Album: Puppy
+Track: 8
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 09 Heartbeat Ga Tomaranai!.mp3
+Time: 243
+Artist: Yuikaori
+Title: Heartbeat Ga Tomaranai!
+Album: Puppy
+Track: 9
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 10 Shooting Smile.mp3
+Time: 233
+Artist: Yuikaori
+Title: Shooting Smile
+Album: Puppy
+Track: 10
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 11 Crystal No Chikai.mp3
+Time: 247
+Artist: Yuikaori
+Title: Crystal No Chikai
+Album: Puppy
+Track: 11
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+song_begin: 12 Our Steady Boy.mp3
+Time: 239
+Artist: Yuikaori
+Title: Our Steady Boy
+Album: Puppy
+Track: 12
+Date: 2011
+Genre: JPop
+mtime: 1317295888
+song_end
+end: Yuikaori - Puppy[2011.9.21]
+directory: Yuka Iguchi - Hey World(2015.04.29)
+mtime: 1436944313
+begin: Yuka Iguchi - Hey World(2015.04.29)
+song_begin: (01)Hey World.mp3
+Time: 276
+Artist: 井口裕香
+Title: Hey World
+Album: 「ダンジョンに出会いを求めるのは間違っているだろうか」オープニングテーマ『Hey World』
+Track: 01
+mtime: 1429977386
+song_end
+song_begin: (02)約束 ~僕の詩~.mp3
+Time: 216
+Artist: 井口裕香
+Title: 約束 ~僕の詩~
+Album: 「ダンジョンに出会いを求めるのは間違っているだろうか」オープニングテーマ『Hey World』
+Track: 02
+mtime: 1429977386
+song_end
+end: Yuka Iguchi - Hey World(2015.04.29)
+directory: [150225] 三森すずこ - Heart Collection [AAC+MP3]
+mtime: 1436885709
+begin: [150225] 三森すずこ - Heart Collection [AAC+MP3]
+directory: AAC+MP3
+mtime: 1436945327
+begin: [150225] 三森すずこ - Heart Collection [AAC+MP3]/AAC+MP3
+song_begin: 01. Heart Collection.m4a
+Time: 255
+Artist: 三森すずこ
+Album: Heart Collection
+Title: Heart Collection
+Track: 1/1
+Genre: JPop
+Date: 2015
+mtime: 1426276554
+song_end
+end: [150225] 三森すずこ - Heart Collection [AAC+MP3]/AAC+MP3
+end: [150225] 三森すずこ - Heart Collection [AAC+MP3]
+directory: [150225] 三森すずこ - ROLLER COASTER [AAC+MP3]
+mtime: 1436885746
+begin: [150225] 三森すずこ - ROLLER COASTER [AAC+MP3]
+directory: AAC+MP3
+mtime: 1436945322
+begin: [150225] 三森すずこ - ROLLER COASTER [AAC+MP3]/AAC+MP3
+song_begin: 01. ROLLER COASTER.m4a
+Time: 233
+Artist: 三森すずこ
+Album: ROLLER COASTER
+Title: ROLLER COASTER
+Track: 1/1
+Genre: JPop
+Date: 2015
+mtime: 1426276566
+song_end
+end: [150225] 三森すずこ - ROLLER COASTER [AAC+MP3]/AAC+MP3
+end: [150225] 三森すずこ - ROLLER COASTER [AAC+MP3]
+directory: [ASL] Haruna Luna - Sword Art Online II ED - Startear [MP3] [w Scans]
+mtime: 1436944595
+begin: [ASL] Haruna Luna - Sword Art Online II ED - Startear [MP3] [w Scans]
+song_begin: 01 Startear.mp3
+Time: 303
+Artist: Haruna Luna
+Title: Startear
+Album: Startear
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: Saku
+mtime: 1408268168
+song_end
+song_begin: 02 Natsu no Koi Yohou.mp3
+Time: 261
+Artist: Haruna Luna
+Title: Natsu no Koi Yohou
+Album: Startear
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: Tokimori Kazuyuki
+mtime: 1408268168
+song_end
+song_begin: 03 Ramune Sekai.mp3
+Time: 245
+Artist: Haruna Luna
+Title: Ramune Sekai
+Album: Startear
+Track: 3/4
+Date: 2014
+Genre: Anime
+Composer: Ohashi Rico
+mtime: 1408268168
+song_end
+end: [ASL] Haruna Luna - Sword Art Online II ED - Startear [MP3] [w Scans]
+directory: [ASL] Hello Sleepwalkers - Noragami OP - Goya no Machiawase [MP3] [w Scans]
+mtime: 1436885450
+begin: [ASL] Hello Sleepwalkers - Noragami OP - Goya no Machiawase [MP3] [w Scans]
+song_begin: 01 Goya no Machiawase.mp3
+Time: 171
+Artist: Hello Sleepwalkers
+Title: Goya no Machiawase
+Album: Goya no Machiawase
+Track: 1/1
+Date: 2014
+Genre: Anime
+Composer: Shuntarou
+mtime: 1391038951
+song_end
+end: [ASL] Hello Sleepwalkers - Noragami OP - Goya no Machiawase [MP3] [w Scans]
+directory: [ASL] Kato＊Fuku - Inou Battle wa Nichijou-kei no Naka de ED - You Gotta Love Me! [MP3]
+mtime: 1436944712
+begin: [ASL] Kato＊Fuku - Inou Battle wa Nichijou-kei no Naka de ED - You Gotta Love Me! [MP3]
+song_begin: 01 You Gotta Love Me!.mp3
+Time: 229
+Artist: Kato*Fuku
+Title: You Gotta Love Me!
+Album: You Gotta Love Me!
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: Fujita Junpei (Elements Garden)
+mtime: 1418079059
+song_end
+song_begin: 02 Sadistic Love.mp3
+Time: 250
+Artist: Kato*Fuku
+Title: Sadistic Love
+Album: You Gotta Love Me!
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: Iwahashi Seima (Elements Garden)
+mtime: 1418079059
+song_end
+end: [ASL] Kato＊Fuku - Inou Battle wa Nichijou-kei no Naka de ED - You Gotta Love Me! [MP3]
+directory: [ASL] Mimori Suzuko - Majimoji Rurumo OP - Seiippai, Tsutaetai! [MP3] [w Scans]
+mtime: 1436944712
+begin: [ASL] Mimori Suzuko - Majimoji Rurumo OP - Seiippai, Tsutaetai! [MP3] [w Scans]
+song_begin: 01 Seiippai, Tsutaetai!.mp3
+Time: 226
+Artist: Mimori Suzuko
+Title: Seiippai, Tsutaetai!
+Album: Seiippai, Tsutaetai!
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: Saitou Yoshihiro
+Disc: 1/1
+mtime: 1410463390
+song_end
+song_begin: 02 Junjou DaDanDan.mp3
+Time: 241
+Artist: Mimori Suzuko
+Title: Junjou DaDanDan
+Album: Seiippai, Tsutaetai!
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: Komatsu Kazuya
+Disc: 1/1
+mtime: 1410463384
+song_end
+end: [ASL] Mimori Suzuko - Majimoji Rurumo OP - Seiippai, Tsutaetai! [MP3] [w Scans]
+directory: [ASL] Mimori Suzuko - Outbreak Company OP - Univer Page [MP3] [w Scans]
+mtime: 1436944712
+begin: [ASL] Mimori Suzuko - Outbreak Company OP - Univer Page [MP3] [w Scans]
+song_begin: 01 Univer Page.mp3
+Time: 233
+Artist: Mimori Suzuko
+Title: Univer Page
+Album: Univer Page
+Track: 1/4
+Date: 2013
+Genre: Anime
+Composer: Watanabe Shou
+mtime: 1382338345
+song_end
+song_begin: 02 Watashi... Mimamotteru yo!.mp3
+Time: 230
+Artist: Mimori Suzuko
+Title: Watashi... Mimamotteru yo!
+Album: Univer Page
+Track: 2/4
+Date: 2013
+Genre: Anime
+Composer: Shihori
+mtime: 1382338345
+song_end
+end: [ASL] Mimori Suzuko - Outbreak Company OP - Univer Page [MP3] [w Scans]
+directory: [ASL] Petralka Anne Eldant III (CV： Fuchigami Mai) - Outbreak Company ED - Watashi no Housekibako [MP3] [w Scans]
+mtime: 1436887144
+begin: [ASL] Petralka Anne Eldant III (CV： Fuchigami Mai) - Outbreak Company ED - Watashi no Housekibako [MP3] [w Scans]
+song_begin: 02 Sweet Magic.mp3
+Time: 257
+Artist: Petralka Anne Eldant III (CV: Fuchigami Mai)
+Title: Sweet Magic
+Album: Watashi no Housekibako
+Track: 2/4
+Date: 2013
+Genre: Anime
+Composer: Mutsuki Shuuhei
+mtime: 1383455738
+song_end
+end: [ASL] Petralka Anne Eldant III (CV： Fuchigami Mai) - Outbreak Company ED - Watashi no Housekibako [MP3] [w Scans]
+directory: [ASL] Qverktett：║ - Inou Battle wa Nichijou-kei no Naka de OP - OVERLAPPERS [MP3]
+mtime: 1436944541
+begin: [ASL] Qverktett：║ - Inou Battle wa Nichijou-kei no Naka de OP - OVERLAPPERS [MP3]
+song_begin: 01 OVERLAPPERS.mp3
+Time: 257
+Artist: Qverktett:║ (Kanzaki Tomoyo (CV: Yamazaki Haruka), Kushikawa Hatoko (CV: Hayami Saori), Takanashi Sayumi (CV: Taneda Risa), Himeki Chifuyu (CV: Yamashita Nanami))
+Title: OVERLAPPERS
+Album: OVERLAPPERS
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: Fujita Junpei (Elements Garden)
+mtime: 1418210587
+song_end
+song_begin: 02 Inousei Hakkengaku.mp3
+Time: 207
+Artist: Sakishita Otome. (Dead Hell Maiden): Kanzaki Tomoyo (CV: Yamazaki Haruka), Himeki Chifuyu (CV: Yamashita Nanami)
+Title: Inousei Hakkengaku
+Album: OVERLAPPERS
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: Fujita Junpei (Elements Garden)
+mtime: 1418079038
+song_end
+end: [ASL] Qverktett：║ - Inou Battle wa Nichijou-kei no Naka de OP - OVERLAPPERS [MP3]
+directory: [ASL] Suzaki Aya - Tamako Love Story Theme Song - Principle [MP3] [w Scans]
+mtime: 1436944512
+begin: [ASL] Suzaki Aya - Tamako Love Story Theme Song - Principle [MP3] [w Scans]
+song_begin: 01 Principle.mp3
+Time: 255
+Artist: Suzaki Aya
+AlbumArtist: Suzaki Aya
+Title: Principle
+Album: Principle
+Track: 1/4
+Date: 2014
+Composer: Fujimoto Kouichi
+mtime: 1407465188
+song_end
+song_begin: 02 Koi no Uta.mp3
+Time: 209
+Artist: Kitashirakawa Tamako (CV: Suzaki Aya)
+AlbumArtist: Suzaki Aya
+Title: Koi no Uta
+Album: Principle
+Track: 2/4
+Date: 2014
+Composer: Yamaguchi Yuu
+mtime: 1407465195
+song_end
+end: [ASL] Suzaki Aya - Tamako Love Story Theme Song - Principle [MP3] [w Scans]
+directory: [ASL] Various Artists - Haiyore! Nyaruko-san W - Kakyokushuu Jareikyoku-tachi [MP3]
+mtime: 1436890355
+begin: [ASL] Various Artists - Haiyore! Nyaruko-san W - Kakyokushuu Jareikyoku-tachi [MP3]
+song_begin: 01 Koi wa Chaos no Shimobenari.mp3
+Time: 241
+Artist: Ushiro kara Haiyori-tai G
+Title: Koi wa Chaos no Shimobenari
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 1/12
+Date: 2013
+Genre: Anime
+Composer: Tanaka Hidekazu
+mtime: 1393704941
+song_end
+song_begin: 02 Yotte S.O.S.mp3
+Time: 223
+Artist: RAMM ni Haiyoru Nyaruko-san
+Title: Yotte S.O.S
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 2/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704941
+song_end
+song_begin: 03 Wonder Nanda？ Kataomoi.mp3
+Time: 215
+Artist: RAMM ni Haiyoru Jashin-san
+Title: Wonder Nanda? Kataomoi
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 3/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704942
+song_end
+song_begin: 04 Kirai na Wake Lychee.mp3
+Time: 201
+Artist: RAMM ni Haiyoru Tamao-san
+Title: Kirai na Wake Lychee
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 4/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704942
+song_end
+song_begin: 05 Sister,Friend,Lover.mp3
+Time: 223
+Artist: RAMM ni Haiyoru Kuuko-san to Kuune-san
+Title: Sister, Friend, Lover
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 5/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1394500419
+song_end
+song_begin: 06 Ai Crusaders†Striver.mp3
+Time: 227
+Artist: RAMM ni Haiyoru Mahiro-san to Yoichi-san
+Title: Ai Crusaders†Striver
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 6/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704943
+song_end
+song_begin: 07 Blast of Fate ~Kaze no Yukue~.mp3
+Time: 223
+Artist: Ushiro kara Haiyori-tai B
+Title: Blast of Fate ~Kaze no Yukue~
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 7/12
+Date: 2013
+Genre: Anime
+Composer: You Keigo
+mtime: 1393704943
+song_end
+song_begin: 08 Kirai na Wake Lychee -Tsuruko ver.-.mp3
+Time: 199
+Artist: RAMM ni Haiyoru Tsuruko-san
+Title: Kirai na Wake Lychee -Tsuruko ver.-
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 8/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704943
+song_end
+song_begin: 09 Yuggoth yori no Shisha.mp3
+Time: 218
+Artist: The Mi-go hunters
+Title: Yuggoth yori no Shisha
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 9/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704944
+song_end
+song_begin: 10 Kimi no Tonari de.mp3
+Time: 234
+Artist: RAMM ni Haiyoru Nyaruko-san
+Title: Kimi no Tonari de
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 10/12
+Date: 2013
+Genre: Anime
+Composer: RAMM
+mtime: 1393704944
+song_end
+song_begin: 11 Koi wa Chaos no Shimobenari -RAMM Arrange ver.-.mp3
+Time: 248
+Artist: Ushiro kara Haiyori-tai G
+Title: Koi wa Chaos no Shimobenari -RAMM Arrange ver.-
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 11/12
+Date: 2013
+Genre: Anime
+Composer: Tanaka Hidekazu
+mtime: 1393704945
+song_end
+song_begin: 12 Nyaru Nyaru Service Medley.mp3
+Time: 416
+Artist: Ushiro kara Haiyori-tai
+Title: Nyaru Nyaru Service Medley
+Album: Kakyokushuu Jareikyoku-tachi
+Track: 12/12
+Date: 2013
+Genre: Anime
+Composer: Tanaka Hidekazu, RAMM, You Keigo
+mtime: 1393704945
+song_end
+end: [ASL] Various Artists - Haiyore! Nyaruko-san W - Kakyokushuu Jareikyoku-tachi [MP3]
+directory: [ASL] nano - Aoki Hagane no Arpeggio -Ars Nova- OP - SAVIOR OF SONG [MP3] [w Scans]
+mtime: 1436944712
+begin: [ASL] nano - Aoki Hagane no Arpeggio -Ars Nova- OP - SAVIOR OF SONG [MP3] [w Scans]
+song_begin: 01 SAVIOR OF SONG (feat. MY FIRST STORY).mp3
+Time: 250
+Artist: nano
+AlbumArtist: nano
+Title: SAVIOR OF SONG (feat. MY FIRST STORY)
+Album: SAVIOR OF SONG '
+Track: 1/4
+Date: 2013
+Genre: Anime
+Composer: MY FIRST STORY
+mtime: 1383020036
+song_end
+song_begin: 02 Silver Sky.mp3
+Time: 339
+Artist: nano
+AlbumArtist: nano
+Title: Silver Sky
+Album: SAVIOR OF SONG '
+Track: 2/4
+Date: 2013
+Genre: Anime
+Composer: Kouda Masato
+mtime: 1383020036
+song_end
+end: [ASL] nano - Aoki Hagane no Arpeggio -Ars Nova- OP - SAVIOR OF SONG [MP3] [w Scans]
+directory: [ASL] nano - Mahou Sensou ED - Born to be [MP3] [w Scans]
+mtime: 1436944712
+begin: [ASL] nano - Mahou Sensou ED - Born to be [MP3] [w Scans]
+song_begin: 01 Born to be.mp3
+Time: 217
+Artist: nano
+Title: Born to be
+Album: Born to be
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: WEST GROUND
+mtime: 1392852475
+song_end
+song_begin: 02 Happy Ending Simulator.mp3
+Time: 239
+Artist: nano
+Title: Happy Ending Simulator
+Album: Born to be
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: WEST GROUND
+mtime: 1392852475
+song_end
+end: [ASL] nano - Mahou Sensou ED - Born to be [MP3] [w Scans]
+directory: [ASL] petit milady - Rokujouma no Shinryakusha ED - Koi wa Milk Tea [MP3] [w Scans]
+mtime: 1436944556
+begin: [ASL] petit milady - Rokujouma no Shinryakusha ED - Koi wa Milk Tea [MP3] [w Scans]
+song_begin: 01 Koi wa Milk Tea.mp3
+Time: 205
+Artist: petit milady
+Title: Koi wa Milk Tea
+Album: Koi wa Milk Tea
+Track: 1/4
+Date: 2014
+Composer: Fukuhiro Shuuichirou
+mtime: 1410458344
+song_end
+song_begin: 02 Apple Pie A la Mode.mp3
+Time: 289
+Artist: petit milady
+Title: Apple Pie A la Mode
+Album: Koi wa Milk Tea
+Track: 2/4
+Date: 2014
+Composer: Watanabe Yasushi
+mtime: 1410458465
+song_end
+song_begin: 05 Koi wa Milk Tea (Only Vocal Ver.).mp3
+Time: 171
+Artist: Fukuhiro Shuuichirou
+Title: Koi wa Milk Tea (Only Vocal Ver.)
+Album: Koi wa Milk Tea
+Track: 5/4
+Date: 2014
+Composer: Fukuhiro Shuuichirou
+mtime: 1410458466
+song_end
+end: [ASL] petit milady - Rokujouma no Shinryakusha ED - Koi wa Milk Tea [MP3] [w Scans]
+directory: [ASL] petit milady - Toaru Hikuushi e no Koiuta OP - azurite [MP3] [w Scans]
+mtime: 1436944551
+begin: [ASL] petit milady - Toaru Hikuushi e no Koiuta OP - azurite [MP3] [w Scans]
+song_begin: 01 azurite.mp3
+Time: 242
+Artist: petit milady
+Title: azurite
+Album: azurite
+Track: 1/4
+Date: 2014
+Genre: Anime
+Composer: Itou Ken
+mtime: 1391558476
+song_end
+song_begin: 02 Suki Kirai Kirai Daisuki..mp3
+Time: 220
+Artist: petit milady
+Title: Suki Kirai Kirai Daisuki.
+Album: azurite
+Track: 2/4
+Date: 2014
+Genre: Anime
+Composer: Mori Shintarou
+mtime: 1391558476
+song_end
+end: [ASL] petit milady - Toaru Hikuushi e no Koiuta OP - azurite [MP3] [w Scans]
+directory: [Alexandros] - Wataridori Dracula La
+mtime: 1436944613
+begin: [Alexandros] - Wataridori Dracula La
+song_begin: 02. Dracula La.mp3
+Time: 214
+Artist: [Alexandros]
+AlbumArtist: [Alexandros]
+Title: Dracula La
+Album: ワタリドリ/Dracula La
+Track: 1/4
+Date: 2015
+Genre: J-Pop
+Composer: [Source from www.alljpnews.com]
+Disc: 1/1
+mtime: 1426647488
+song_end
+song_begin: 01. ワタリドリ.mp3
+Time: 253
+Artist: [Alexandros]
+AlbumArtist: [Alexandros]
+Title: ワタリドリ
+Album: ワタリドリ/Dracula La
+Track: 2/4
+Date: 2015
+Genre: J-Pop
+Composer: [Source from www.alljpnews.com]
+Disc: 1/1
+mtime: 1426647488
+song_end
+song_begin: 03. Adam's Apple Pie.mp3
+Time: 143
+Artist: [Alexandros]
+AlbumArtist: [Alexandros]
+Title: Adam's Apple Pie
+Album: ワタリドリ/Dracula La
+Track: 3/4
+Date: 2015
+Genre: J-Pop
+Composer: [Source from www.alljpnews.com]
+Disc: 1/1
+mtime: 1426647488
+song_end
+song_begin: 04. Adventure (This Summer Festival 2014.12.20).mp3
+Time: 320
+Artist: [Alexandros]
+AlbumArtist: [Alexandros]
+Title: Adventure (This Summer Festival 2014.12.20)
+Album: ワタリドリ/Dracula La
+Track: 4/4
+Date: 2015
+Genre: J-Pop
+Composer: [Source from www.alljpnews.com]
+Disc: 1/1
+mtime: 1426647488
+song_end
+end: [Alexandros] - Wataridori Dracula La
+directory: [Champagne] - Run Away~Oblivion[2013.12.25]
+mtime: 1436887617
+begin: [Champagne] - Run Away~Oblivion[2013.12.25]
+song_begin: 01 Run Away.mp3
+Time: 261
+Artist: [Champagne]
+Title: Run Away
+Album: Run Away / Oblivion (Single)
+Track: 1/4
+Date: 2013
+Genre: JPop
+Disc: 1/1
+mtime: 1387996390
+song_end
+song_begin: 02 Oblivion (feat. LITHIUM HOMME).mp3
+Time: 221
+Artist: [Champagne]
+Title: Oblivion (feat. LITHIUM HOMME)
+Album: Run Away / Oblivion (Single)
+Track: 2/4
+Date: 2013
+Genre: JPop
+Disc: 1/1
+mtime: 1387996390
+song_end
+song_begin: 03 Rise.mp3
+Time: 318
+Artist: [Champagne]
+Title: Rise
+Album: Run Away / Oblivion (Single)
+Track: 3/4
+Date: 2013
+Genre: JPop
+Disc: 1/1
+mtime: 1387996390
+song_end
+song_begin: 04 Paint Your Socks Into Pink.mp3
+Time: 165
+Artist: [Champagne]
+Title: Paint Your Socks Into Pink
+Album: Run Away / Oblivion (Single)
+Track: 4/4
+Date: 2013
+Genre: JPop
+Disc: 1/1
+mtime: 1387996390
+song_end
+end: [Champagne] - Run Away~Oblivion[2013.12.25]
+directory: indigo la End - Ano Machi Record [2014.04.02]
+mtime: 1436892278
+begin: indigo la End - Ano Machi Record [2014.04.02]
+song_begin: 01 indigo la End - 夜明けの街でサヨナラを.mp3
+Time: 257
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 夜明けの街でサヨナラを
+Album: あの街レコード
+Track: 1/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737266
+song_end
+song_begin: 02 indigo la End - 名もなきハッピーエンド.mp3
+Time: 273
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 名もなきハッピーエンド
+Album: あの街レコード
+Track: 2/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737266
+song_end
+song_begin: 03 indigo la End - Billion Billion.mp3
+Time: 219
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Billion Billion
+Album: あの街レコード
+Track: 3/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737265
+song_end
+song_begin: 04 indigo la End - あの街の帰り道.mp3
+Time: 250
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: あの街の帰り道
+Album: あの街レコード
+Track: 4/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737270
+song_end
+song_begin: 05 indigo la End - 染まるまで.mp3
+Time: 312
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 染まるまで
+Album: あの街レコード
+Track: 5/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737266
+song_end
+song_begin: 06 indigo la End - ダビングシーン.mp3
+Time: 245
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: ダビングシーン
+Album: あの街レコード
+Track: 6/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737268
+song_end
+song_begin: 07 indigo la End - Mudai.mp3
+Time: 104
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Mudai
+Album: あの街レコード
+Track: 7/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737274
+song_end
+song_begin: 08 indigo la End - アリスは突然に.mp3
+Time: 313
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: アリスは突然に
+Album: あの街レコード
+Track: 8/8
+Date: 2014
+Genre: Pop/Rock
+Composer: 川谷　絵音
+Disc: 1/1
+mtime: 1435737266
+song_end
+end: indigo la End - Ano Machi Record [2014.04.02]
+directory: indigo la End - Hitomi ni Utsuranai[2014.09.24]
+mtime: 1436892344
+begin: indigo la End - Hitomi ni Utsuranai[2014.09.24]
+song_begin: 01.m4a
+Time: 223
+Artist: indigo la End
+Album: 瞳に映らない - EP
+Title: Hitomiに映らない
+Track: 1/4
+Genre: ポップ
+Date: 2014-09-24T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1410388658
+song_end
+song_begin: 03.m4a
+Time: 204
+Artist: indigo la End
+Album: 瞳に映らない - EP
+Title: シベリアの女の子
+Track: 3/4
+Genre: ポップ
+Date: 2014-09-24T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1411538874
+song_end
+song_begin: 04.m4a
+Time: 410
+Artist: indigo la End
+Album: 瞳に映らない - EP
+Title: 幸せな街路樹
+Track: 4/4
+Genre: ポップ
+Date: 2014-09-24T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1411538904
+song_end
+song_begin: 02.m4a
+Time: 234
+Artist: indigo la End
+Album: 瞳に映らない(http://www.alljpnews.com Promo Purpose Use Only)
+Title: ハートの大きさ
+Track: 2/4
+Genre: ポップ
+Date: 2014-09-24T07:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1411538577
+song_end
+end: indigo la End - Hitomi ni Utsuranai[2014.09.24]
+directory: indigo la End - Kanashikunaru Mae ni[2015.06.17]
+mtime: 1436892410
+begin: indigo la End - Kanashikunaru Mae ni[2015.06.17]
+song_begin: 01 悲しくなる前に.m4a
+Time: 219
+Artist: indigo la End
+Album: 悲しくなる前に - Single
+Title: 悲しくなる前に
+Track: 1
+Composer: 川谷絵音
+mtime: 1434580339
+song_end
+song_begin: 02 渇き.m4a
+Time: 206
+Artist: indigo la End
+Album: 悲しくなる前に - Single
+Title: 渇き
+Track: 2
+Composer: 川谷絵音
+mtime: 1434580339
+song_end
+song_begin: 03 夏夜のマジック.m4a
+Time: 305
+Artist: indigo la End
+Album: 悲しくなる前に - Single
+Title: 夏夜のマジック
+Track: 3
+Composer: 川谷絵音
+mtime: 1434580339
+song_end
+end: indigo la End - Kanashikunaru Mae ni[2015.06.17]
+directory: indigo la End - Nagisa nite [2012.09.05]
+mtime: 1436892484
+begin: indigo la End - Nagisa nite [2012.09.05]
+song_begin: 01 楽園.mp3
+Time: 293
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 楽園
+Album: 渚にて
+Track: 01
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737269
+song_end
+song_begin: 02 レナは朝を奪ったみたいだ.mp3
+Time: 353
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: レナは朝を奪ったみたいだ
+Album: 渚にて
+Track: 02
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737274
+song_end
+song_begin: 03 海辺カラス.mp3
+Time: 107
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 海辺カラス
+Album: 渚にて
+Track: 03
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737268
+song_end
+song_begin: 04 渚にて幻.mp3
+Time: 332
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 渚にて幻
+Album: 渚にて
+Track: 04
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737268
+song_end
+song_begin: 05 el..mp3
+Time: 123
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: el.
+Album: 渚にて
+Track: 05
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737269
+song_end
+song_begin: 06 雫.mp3
+Time: 434
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: 雫
+Album: 渚にて
+Track: 06
+Date: 2012
+Genre: Indie-Rock
+mtime: 1435737270
+song_end
+end: indigo la End - Nagisa nite [2012.09.05]
+directory: indigo la End - Sayonara Bell[2014.12.24]
+mtime: 1436892523
+begin: indigo la End - Sayonara Bell[2014.12.24]
+song_begin: 01 Sayonara Bell.m4a
+Time: 231
+Artist: indigo la End
+Album: Sayonara Bell - Single
+Title: Sayonara Bell
+Track: 1/2
+Genre: J-Pop
+Date: 2014-12-24T08:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1419738682
+song_end
+song_begin: 02 Sly Queen.m4a
+Time: 236
+Artist: indigo la End
+Album: Sayonara Bell - Single
+Title: Sly Queen
+Track: 2/2
+Genre: J-Pop
+Date: 2014-12-24T08:00:00Z
+Composer: Enon Kawatani
+Disc: 1/1
+AlbumArtist: indigo la End
+mtime: 1419738680
+song_end
+end: indigo la End - Sayonara Bell[2014.12.24]
+directory: indigo la End - Sayounara.Subarashii Sekai[2012.4.11]
+mtime: 1436892645
+begin: indigo la End - Sayounara.Subarashii Sekai[2012.4.11]
+song_begin: 01 Midori No Shoujo.mp3
+Time: 257
+Artist: indigo la End
+Title: Midori No Shoujo
+Album: Sayounara.Subarashii Sekai
+Track: 1
+Date: 2012
+mtime: 1335792795
+song_end
+song_begin: 02 Himitsu No Kingyo.mp3
+Time: 256
+Artist: indigo la End
+Title: Himitsu No Kingyo
+Album: Sayounara.Subarashii Sekai
+Track: 2
+Date: 2012
+mtime: 1335792802
+song_end
+song_begin: 03 Yume De Aetara.mp3
+Time: 278
+Artist: indigo la End
+Title: Yume De Aetara
+Album: Sayounara.Subarashii Sekai
+Track: 3
+Date: 2012
+mtime: 1335792810
+song_end
+song_begin: 04 Warhol.mp3
+Time: 348
+Artist: indigo la End
+Title: Warhol
+Album: Sayounara.Subarashii Sekai
+Track: 4
+Date: 2012
+mtime: 1335792782
+song_end
+song_begin: 05 Yoru No Kouen.mp3
+Time: 339
+Artist: indigo la End
+Title: Yoru No Kouen
+Album: Sayounara.Subarashii Sekai
+Track: 5
+Date: 2012
+mtime: 1335792820
+song_end
+song_begin: 06 John Curtis.mp3
+Time: 262
+Artist: indigo la End
+Title: John Curtis
+Album: Sayounara.Subarashii Sekai
+Track: 6
+Date: 2012
+mtime: 1335792827
+song_end
+song_begin: 07 Mudai.mp3
+Time: 109
+Artist: indigo la End
+Title: Mudai
+Album: Sayounara.Subarashii Sekai
+Track: 7
+Date: 2012
+mtime: 1335792833
+song_end
+song_begin: 08 Subarashii Sekai.mp3
+Time: 303
+Artist: indigo la End
+Title: Subarashii Sekai
+Album: Sayounara.Subarashii Sekai
+Track: 8
+Date: 2012
+mtime: 1335792838
+song_end
+end: indigo la End - Sayounara.Subarashii Sekai[2012.4.11]
+directory: indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]
+mtime: 1436892846
+begin: indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]
+song_begin: 01. sweet spider.mp3
+Time: 320
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: sweet spider
+Album: Yoru ni Mahou wo Kakerarete
+Track: 01/12
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389392499
+song_end
+song_begin: 02. she.mp3
+Time: 347
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: she
+Album: Yoru ni Mahou wo Kakerarete
+Track: 02/12
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389392499
+song_end
+song_begin: 03. Daiteiden no Yoru ni.mp3
+Time: 289
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Daiteiden no Yoru ni
+Album: Yoru ni Mahou wo Kakerarete
+Track: 3
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389392992
+song_end
+song_begin: 04. Kyuu no Kuusou.mp3
+Time: 93
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Kyuu no Kuusou
+Album: Yoru ni Mahou wo Kakerarete
+Track: 4
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389394604
+song_end
+song_begin: 05. Kanojo no Soudan.mp3
+Time: 286
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Kanojo no Soudan
+Album: Yoru ni Mahou wo Kakerarete
+Track: 5
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389394891
+song_end
+song_begin: 06. SPOON de Kanpai.mp3
+Time: 259
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: SPOON de Kanpai
+Album: Yoru ni Mahou wo Kakerarete
+Track: 6
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389394969
+song_end
+song_begin: 07. Dakishimete.mp3
+Time: 313
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Dakishimete
+Album: Yoru ni Mahou wo Kakerarete
+Track: 7
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389395364
+song_end
+song_begin: 08. Mari no Kaisou.mp3
+Time: 138
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Mari no Kaisou
+Album: Yoru ni Mahou wo Kakerarete
+Track: 8
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389395375
+song_end
+song_begin: 09. SWELL.mp3
+Time: 357
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: SWELL
+Album: Yoru ni Mahou wo Kakerarete
+Track: 9
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389395385
+song_end
+song_begin: 10. fake street.mp3
+Time: 231
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: fake street
+Album: Yoru ni Mahou wo Kakerarete
+Track: 10/12
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389392499
+song_end
+song_begin: 11. X day.mp3
+Time: 228
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: X day
+Album: Yoru ni Mahou wo Kakerarete
+Track: 11/12
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389392499
+song_end
+song_begin: 12. Ame no Mahou.mp3
+Time: 263
+Artist: indigo la End
+AlbumArtist: indigo la End
+Title: Ame no Mahou
+Album: Yoru ni Mahou wo Kakerarete
+Track: 12
+Date: 2013
+Genre: Rock
+Disc: 1/1
+mtime: 1389395405
+song_end
+end: indigo la End - Yoru ni Mahou wo Kakerarete [2013.02.06] [320kbs]
+directory: petit milady - Kagami no Dualizm~100% Cider Girl[2013.05.15]
+mtime: 1436944351
+begin: petit milady - Kagami no Dualizm~100% Cider Girl[2013.05.15]
+song_begin: 01 鏡のデュアル・イズム.mp3
+Time: 192
+Artist: petit milady
+AlbumArtist: petit milady
+Title: 鏡のデュアル?イズム
+Album: 鏡のデュアル?イズム/100%サイダーガール
+Track: 1/4
+Date: 2013
+Genre: Anime
+Disc: 1/1
+mtime: 1368678271
+song_end
+song_begin: 02 100%サイダーガール.mp3
+Time: 236
+Artist: petit milady
+AlbumArtist: petit milady
+Title: 100%サイダーガール
+Album: 鏡のデュアル?イズム/100%サイダーガール
+Track: 2/4
+Date: 2013
+Genre: Anime
+Disc: 1/1
+mtime: 1368678271
+song_end
+end: petit milady - Kagami no Dualizm~100% Cider Girl[2013.05.15]
+directory: supercell feat. Hatsune Miku - Hajimete no Koi ga Owaru Toki [2008.12.29]
+mtime: 1436944331
+begin: supercell feat. Hatsune Miku - Hajimete no Koi ga Owaru Toki [2008.12.29]
+song_begin: 01. Hajimete no Koi ga Owaru Toki.mp3
+Time: 317
+Artist: supercell feat. Hatsune Miku
+AlbumArtist: supercell feat. Hatsune Miku
+Title: Hajimete no Koi ga Owaru Toki
+Album: Hajimete no Koi ga Owaru Toki
+Track: 1
+Date: 2008
+Genre: Vocaloid
+mtime: 978336570
+song_end
+song_begin: 02. Oh KEI .mp3
+Time: 252
+Artist: supercell feat. Hatsune Miku
+AlbumArtist: supercell feat. Hatsune Miku
+Title: Oh KEI
+Album: Hajimete no Koi ga Owaru Toki
+Track: 2
+Date: 2008
+Genre: Vocaloid
+mtime: 978336575
+song_end
+end: supercell feat. Hatsune Miku - Hajimete no Koi ga Owaru Toki [2008.12.29]
+song_begin: 01.Manana.mp3
+Time: 88
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Manana
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 1/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 02.Fun Fanfare.mp3
+Time: 225
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Fun Fanfare
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 2/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 03.POPCORN SMILE.mp3
+Time: 227
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: POPCORN SMILE
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 3/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 04.Grow Slowly.mp3
+Time: 250
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Grow Slowly
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 4/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 05.rainbow heart ｢ｽ rainbow dream ｡ﾙ.mp3
+Time: 216
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: rainbow heart ♡ rainbow dream ☆
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 5/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 06.Yudachi Serenade.mp3
+Time: 280
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Yudachi Serenade
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 6/12
+Date: 2014
+Genre: JPop
+mtime: 1405556802
+song_end
+song_begin: 07.Ponytail.mp3
+Time: 305
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Ponytail
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 7/12
+Date: 2014
+Genre: JPop
+mtime: 1405556806
+song_end
+song_begin: 08.Shining Star-｡ﾙ-LOVE Letter.mp3
+Time: 308
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Shining Star-☆-LOVE Letter
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 8/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 09.Open Sesame!.mp3
+Time: 241
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Open Sesame!
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 9/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 10.twinkle twinkle....mp3
+Time: 309
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: twinkle twinkle...
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 10/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 11.Mi no Chikara.mp3
+Time: 322
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Mi no Chikara
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 11/12
+Date: 2014
+Genre: JPop
+mtime: 1405556812
+song_end
+song_begin: 12.Puengue.mp3
+Time: 93
+Artist: Iguchi Yuka
+AlbumArtist: Iguchi Yuka
+Title: Puengue
+Album: Iguchi Yuka 1st Single - Hafa Adai
+Track: 12/12
+Date: 2014
+Genre: JPop
+mtime: 1405556794
+song_end
+song_begin: 01. Introduction~Where idiot should go~.mp3
+Time: 72
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Introduction~Where idiot should go~
+Album: Jinsei×Boku=
+Track: 1/13
+Date: 2013
+Genre: Rock
+mtime: 1362595190
+song_end
+song_begin: 02. Ending Story.mp3
+Time: 255
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Ending Story??
+Album: Jinsei×Boku=
+Track: 2/13
+Date: 2013
+Genre: Rock
+mtime: 1362595190
+song_end
+song_begin: 03. ONION!.mp3
+Time: 198
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: ONION!
+Album: Jinsei×Boku=
+Track: 3/13
+Date: 2013
+Genre: Rock
+mtime: 1362595191
+song_end
+song_begin: 04. The Beginning.mp3
+Time: 293
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: The Beginning
+Album: Jinsei×Boku=
+Track: 4/13
+Date: 2013
+Genre: Rock
+mtime: 1362595191
+song_end
+song_begin: 05. Clock Strikes.mp3
+Time: 235
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Clock Strikes
+Album: Jinsei×Boku=
+Track: 5/13
+Date: 2013
+Genre: Rock
+mtime: 1362595192
+song_end
+song_begin: 06. Be the light.mp3
+Time: 339
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Be the light
+Album: Jinsei×Boku=
+Track: 6/13
+Date: 2013
+Genre: Rock
+mtime: 1362595192
+song_end
+song_begin: 07. Nothing Helps.mp3
+Time: 286
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Nothing Helps
+Album: Jinsei×Boku=
+Track: 7/13
+Date: 2013
+Genre: Rock
+mtime: 1362595193
+song_end
+song_begin: 08. Juvenile.mp3
+Time: 239
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Juvenile
+Album: Jinsei×Boku=
+Track: 8/13
+Date: 2013
+Genre: Rock
+mtime: 1362595193
+song_end
+song_begin: 09. All Mine.mp3
+Time: 277
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: All Mine
+Album: Jinsei×Boku=
+Track: 9/13
+Date: 2013
+Genre: Rock
+mtime: 1362595194
+song_end
+song_begin: 10. Smiling down.mp3
+Time: 265
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Smiling down
+Album: Jinsei×Boku=
+Track: 10/13
+Date: 2013
+Genre: Rock
+mtime: 1362595194
+song_end
+song_begin: 11. Deeper Deeper.mp3
+Time: 217
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: Deeper Deeper
+Album: Jinsei×Boku=
+Track: 11/13
+Date: 2013
+Genre: Rock
+mtime: 1362595194
+song_end
+song_begin: 12. 69.mp3
+Time: 277
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: 69
+Album: Jinsei×Boku=
+Track: 12/13
+Date: 2013
+Genre: Rock
+mtime: 1362595195
+song_end
+song_begin: 13. the same as....mp3
+Time: 273
+Artist: ONE OK ROCK
+AlbumArtist: ONE OK ROCK
+Title: the same as...
+Album: Jinsei×Boku=
+Track: 13/13
+Date: 2013
+Genre: Rock
+mtime: 1362595195
+song_end
+song_begin: 01 - Madokashii Sekai no Ue de.mp3
+Time: 265
+Artist: Makino Yui
+Title: Madokashii Sekai no Ue de
+Album: Madokashii Sekai no Ue de
+Track: 1
+Date: 2006
+Genre: Anime
+Genre: Anime
+mtime: 1161718260
+song_end
+song_begin: 02 - Dark Side Nitsuite Kite -New Mix-.mp3
+Time: 251
+Artist: Makino Yui
+Title: Dark Side Nitsuite Kite -New Mix-
+Album: Madokashii Sekai no Ue de
+Track: 2
+Date: 2006
+Genre: Anime
+Genre: Anime
+mtime: 1161718262
+song_end
+song_begin: 01.Lost Time Memory.mp3
+Time: 297
+Artist: Jin feat.Matsuyama Kohta (BYEE the ROUND)
+Title: Lost Time Memory
+Album: Mekaku City Actors BD Vol.08 Bonus CD - Lost Time Memory
+Track: 1/2
+Date: 2014
+Genre: Anime
+mtime: 1413084318
+song_end
+song_begin: 01.WONDERFUL WONDERS.mp3
+Time: 250
+Artist: Ryuugajou Nanana (CV.Tanabe Rui)
+AlbumArtist: Ryuugajou Nanana (CV.Tanabe Rui)
+Title: WONDERFUL WONDERS
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 1
+Date: 2014
+Genre: Anime
+mtime: 1404506178
+song_end
+song_begin: 03.Iseki Hakken!.mp3
+Time: 110
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Iseki Hakken!
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 3
+Date: 2014
+Genre: Anime
+mtime: 1404506190
+song_end
+song_begin: 04.Iseki Hakken!.mp3
+Time: 139
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Iseki Hakken!
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 4
+Date: 2014
+Genre: Anime
+mtime: 1404506196
+song_end
+song_begin: 05.Pudding Katte Kite.mp3
+Time: 100
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Pudding Katte Kite
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 5
+Date: 2014
+Genre: Anime
+mtime: 1404506202
+song_end
+song_begin: 06.Odayakana Hibi.mp3
+Time: 115
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Odayakana Hibi
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 6
+Date: 2014
+Genre: Anime
+mtime: 1404506208
+song_end
+song_begin: 07.Madou Dokyo Hito.mp3
+Time: 98
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Madou Dokyo Hito
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 7
+Date: 2014
+Genre: Anime
+mtime: 1404506214
+song_end
+song_begin: 08.Project 7.mp3
+Time: 149
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Project 7
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 8
+Date: 2014
+Genre: Anime
+mtime: 1404506218
+song_end
+song_begin: 09.Tabidachi to Wakare.mp3
+Time: 127
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Tabidachi to Wakare
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 9
+Date: 2014
+Genre: Anime
+mtime: 1404506224
+song_end
+song_begin: 10.Iza, Bokene!.mp3
+Time: 96
+Artist: Hoashi Keigo
+AlbumArtist: Hoashi Keigo
+Title: Iza, Bokene!
+Album: Ryuugajou Nanana no Maizoukin BD Vol.01 Bonus CD Character Song - Ryuugajou Nanana (CV.Tanabe Rui)
+Track: 10
+Date: 2014
+Genre: Anime
+mtime: 1404506230
+song_end
+song_begin: 01.Shishi naru Homura.mp3
+Time: 268
+Artist: Claire Rouge (CV.Kido Ibuki)
+AlbumArtist: Claire Rouge (CV.Kido Ibuki) , Ni-Sokkususu
+Title: Shishi naru Homura
+Album: Seirei Tsukai no Blade Dance Special CD
+Track: 1/3
+Date: 2014
+Genre: Anime
+mtime: 1414342136
+song_end
+song_begin: 02.Holy Domain (Claire Rouge Solo ver.).mp3
+Time: 240
+Artist: Claire Rouge (CV.Kido Ibuki)
+AlbumArtist: Claire Rouge (CV.Kido Ibuki) , Ni-Sokkususu
+Title: Holy Domain (Claire Rouge Solo ver.)
+Album: Seirei Tsukai no Blade Dance Special CD
+Track: 2/3
+Date: 2014
+Genre: Anime
+mtime: 1414342144
+song_end
+song_begin: 03.Kokuin Sanka.mp3
+Time: 226
+Artist: Ni-Sokkususu
+AlbumArtist: Claire Rouge (CV.Kido Ibuki) , Ni-Sokkususu
+Title: Kokuin Sanka
+Album: Seirei Tsukai no Blade Dance Special CD
+Track: 3/3
+Date: 2014
+Genre: Anime
+mtime: 1414342152
+song_end
+song_begin: 01.- The Beginning.mp3
+Time: 295
+Artist: ONE OK ROCK
+Title: The Beginning
+Album: The Beginning
+Track: 1/3
+Date: 2012
+Genre: J-Rock
+Disc: 1/1
+mtime: 1345576622
+song_end
+song_begin: 02.- __________.mp3
+Time: 225
+Artist: ONE OK ROCK
+Title: 欠落オートメーション
+Album: The Beginning
+Track: 2/3
+Date: 2012
+Genre: J-Rock
+Disc: 1/1
+mtime: 1345576626
+song_end
+song_begin: 03.- Notes'n'Words.mp3
+Time: 290
+Artist: ONE OK ROCK
+Title: Notes'n'Words
+Album: The Beginning
+Track: 3/3
+Date: 2012
+Genre: J-Rock
+Disc: 1/1
+mtime: 1345576628
+song_end
+song_begin: 01 Easter _ 復活祭.mp3
+Time: 180
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Easter / 復活祭
+Album: Wonder Future
+Track: 1/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704888
+song_end
+song_begin: 02 Little Lennon _ 小さなレノン.mp3
+Time: 242
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Little Lennon / 小さなレノン
+Album: Wonder Future
+Track: 2/11
+Genre: ロック
+Composer: 後藤正文 & 山田貴洋
+Disc: 1/1
+mtime: 1432704902
+song_end
+song_begin: 03 Winner and Loser _ 勝者と敗者.mp3
+Time: 243
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Winner and Loser / 勝者と敗者
+Album: Wonder Future
+Track: 3/11
+Genre: ロック
+Composer: 後藤正文, 喜多建介, 山田貴洋 & 伊地知潔
+Disc: 1/1
+mtime: 1432704916
+song_end
+song_begin: 04 Caterpillar _ 芋虫.mp3
+Time: 214
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Caterpillar / 芋虫
+Album: Wonder Future
+Track: 4/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704928
+song_end
+song_begin: 05 Eternal Sunshine _ 永遠の陽光.mp3
+Time: 300
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Eternal Sunshine / 永遠の陽光
+Album: Wonder Future
+Track: 5/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704946
+song_end
+song_begin: 06 Planet of the Apes _ 猿の惑星.mp3
+Time: 133
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Planet of the Apes / 猿の惑星
+Album: Wonder Future
+Track: 6/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704953
+song_end
+song_begin: 07 Standard _ スタンダード.mp3
+Time: 260
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Standard / スタンダード
+Album: Wonder Future
+Track: 7/11
+Genre: ロック
+Composer: 後藤正文 & 喜多建介
+Disc: 1/1
+mtime: 1432704969
+song_end
+song_begin: 08 Wonder Future _ ワンダーフューチャー.mp3
+Time: 254
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Wonder Future / ワンダーフューチャー
+Album: Wonder Future
+Track: 8/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704983
+song_end
+song_begin: 09 Prisoner in a Frame _ 額の中の囚人.mp3
+Time: 277
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Prisoner in a Frame / 額の中の囚人
+Album: Wonder Future
+Track: 9/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432704999
+song_end
+song_begin: 10 Signal on the Street _ 街頭のシグナル.mp3
+Time: 259
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Signal on the Street / 街頭のシグナル
+Album: Wonder Future
+Track: 10/11
+Genre: ロック
+Composer: 後藤正文
+Disc: 1/1
+mtime: 1432705014
+song_end
+song_begin: 11 Opera Glasses _ オペラグラス.mp3
+Time: 285
+Artist: ASIAN KUNG-FU GENERATION
+AlbumArtist: ASIAN KUNG-FU GENERATION
+Title: Opera Glasses / オペラグラス
+Album: Wonder Future
+Track: 11/11
+Genre: ロック
+Composer: 後藤正文, 喜多建介, 山田貴洋 & 伊地知潔
+Disc: 1/1
+mtime: 1432705031
+song_end
+song_begin: 01.Natsuiro Present.mp3
+Time: 235
+Artist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+AlbumArtist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+Title: Natsuiro Present
+Album: Yama no Susume Second Season OP Single - Natsuiro Present
+Track: 1/6
+Date: 2014
+Genre: Anime
+mtime: 1413084032
+song_end
+song_begin: 02.Natsuiro Present (Aoi Ver.).mp3
+Time: 235
+Artist: Aoi (CV.Iguchi Yuka),
+AlbumArtist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+Title: Natsuiro Present (Aoi Ver.)
+Album: Yama no Susume Second Season OP Single - Natsuiro Present
+Track: 2/6
+Date: 2014
+Genre: Anime
+mtime: 1413084036
+song_end
+song_begin: 03.Natsuiro Present (Hinata Ver.).mp3
+Time: 235
+Artist: Hinata (CV.Asumi Kana)
+AlbumArtist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+Title: Natsuiro Present (Hinata Ver.)
+Album: Yama no Susume Second Season OP Single - Natsuiro Present
+Track: 3/6
+Date: 2014
+Genre: Anime
+mtime: 1413084042
+song_end
+song_begin: 04.Natsuiro Present (Kaede Ver.).mp3
+Time: 235
+Artist: Kaede (CV.Hikasa Yoko)
+AlbumArtist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+Title: Natsuiro Present (Kaede Ver.)
+Album: Yama no Susume Second Season OP Single - Natsuiro Present
+Track: 4/6
+Date: 2014
+Genre: Anime
+mtime: 1413084046
+song_end
+song_begin: 05.Natsuiro Present (Kokona Ver.).mp3
+Time: 235
+Artist: Kokona (CV.Ogura Yu)
+AlbumArtist: Aoi (CV.Iguchi Yuka), Hinata (CV.Asumi Kana), Kaede (CV.Hikasa Yoko), Kokona (CV.Ogura Yu)
+Title: Natsuiro Present (Kokona Ver.)
+Album: Yama no Susume Second Season OP Single - Natsuiro Present
+Track: 5/6
+Date: 2014
+Genre: Anime
+mtime: 1413084050
+song_end
+song_begin: 01. Coda.mp3
+Time: 50
+Artist: ONE OK ROCK
+Title: Coda
+Album: 残響リファレンス
+Track: 1
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 02. LOST AND FOUND.mp3
+Time: 183
+Artist: ONE OK ROCK
+Title: LOST AND FOUND
+Album: 残響リファレンス
+Track: 2
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 03. アンサイズニア.mp3
+Time: 220
+Artist: ONE OK ROCK
+Title: アンサイズニア
+Album: 残響リファレンス
+Track: 3
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 04. NO SCARED.mp3
+Time: 219
+Artist: ONE OK ROCK
+Title: NO SCARED
+Album: 残響リファレンス
+Track: 4
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 05. C.h.o.s.m.y.t.h.mp3
+Time: 318
+Artist: ONE OK ROCK
+Title: C.h.o.s.m.y.t.h
+Album: 残響リファレンス
+Track: 5
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 06. Mr.現代Speaker.mp3
+Time: 234
+Artist: ONE OK ROCK
+Title: Mr.現代Speaker
+Album: 残響リファレンス
+Track: 6
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 07. 世間知らずの宇宙飛行士.mp3
+Time: 212
+Artist: ONE OK ROCK
+Title: 世間知らずの宇宙飛行士
+Album: 残響リファレンス
+Track: 7
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 08. Re-make.mp3
+Time: 205
+Artist: ONE OK ROCK
+Title: Re:make
+Album: 残響リファレンス
+Track: 8
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 09. Pierce.mp3
+Time: 265
+Artist: ONE OK ROCK
+Title: Pierce
+Album: 残響リファレンス
+Track: 9
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 10. Let's take it someday.mp3
+Time: 221
+Artist: ONE OK ROCK
+Title: Let's take it someday
+Album: 残響リファレンス
+Track: 10
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 11. キミシダイ列車.mp3
+Time: 493
+Artist: ONE OK ROCK
+Title: キミシダイ列車
+Album: 残響リファレンス
+Track: 11
+Date: 2011
+Genre: Rock
+mtime: 1323854329
+song_end
+song_begin: 01 Chaos Rikigaku.m4a
+Time: 209
+Artist: 空想委員会
+Album: 種の起源
+Title: カオス力学
+Track: 1/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883598
+song_end
+song_begin: 02 Happoufusagari Bijin.m4a
+Time: 189
+Artist: 空想委員会
+Album: 種の起源
+Title: 八方塞がり美人
+Track: 2/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883598
+song_end
+song_begin: 03 Zankyou Dance.m4a
+Time: 205
+Artist: 空想委員会
+Album: 種の起源
+Title: 残響ダンス
+Track: 3/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883599
+song_end
+song_begin: 04 Elixir Chuudoku Kanja.m4a
+Time: 237
+Artist: 空想委員会
+Album: 種の起源
+Title: エリクサー中毒患者
+Track: 4/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883600
+song_end
+song_begin: 05 Love Trader.m4a
+Time: 192
+Artist: 空想委員会
+Album: 種の起源
+Title: ラブトレーダー
+Track: 5/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883600
+song_end
+song_begin: 06 Shu no Kigen.m4a
+Time: 124
+Artist: 空想委員会
+Album: 種の起源
+Title: 主の機嫌
+Track: 6/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883601
+song_end
+song_begin: 07 TO DARWIN.m4a
+Time: 107
+Artist: 空想委員会
+Album: 種の起源
+Title: TO DARWIN
+Track: 7/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883602
+song_end
+song_begin: 08 Doppelganger Darake.m4a
+Time: 237
+Artist: 空想委員会
+Album: 種の起源
+Title: ドッペルゲンガーだらけ
+Track: 8/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883602
+song_end
+song_begin: 09 [UTOPIA]Kensaku Kekka.m4a
+Time: 268
+Artist: 空想委員会
+Album: 種の起源
+Title: 「ユートピア」検索結果
+Track: 9/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883602
+song_end
+song_begin: 10 Kuusou Shinka Ron.m4a
+Time: 216
+Artist: 空想委員会
+Album: 種の起源
+Title: 空想進化論
+Track: 10/10
+Genre: ロック
+Date: 2014-06-04T07:00:00Z
+Disc: 1/1
+AlbumArtist: 空想委員会
+mtime: 1401883603
+song_end
