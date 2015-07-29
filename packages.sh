@@ -14,7 +14,7 @@ export PATH="$PATH:$HOME/.rvm/bin"
 nvm install stable 
 nvm alias default stable 
 nvm use default
-npm install -g yo gulp grunt-cli react-tools coffee-script webpack webpack-dev-server nodemon
+npm install -g yo gulp grunt-cli eslint babel-eslint eslint-plugin-react mocha coffee-script webpack webpack-dev-server nodemon
 
 # Installing ruby & rails.
 # NOTE: This requires to have been 'source ~/.profile' before.
