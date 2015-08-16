@@ -1,25 +1,29 @@
 #!/bin/bash
-
-# Installing Node
-# Installing node's global packages.
-# NOTE: This requires to have been 'source ~/.profile' before.
+# Source config files.
 source ~/.profile
 source ~/.bashrc
 
+# Load NVM.
 export NVM_DIR="/home/yayu/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-export PATH="$PATH:$HOME/.rvm/bin" 
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+# Load RVM.
+export PATH="$PATH:$HOME/.rvm/bin"
 
 
-nvm install stable 
-nvm alias default stable 
+# Installing Node's latest version.
+nvm install stable
+nvm alias default stable
 nvm use default
-npm install -g yo gulp grunt-cli eslint babel babel-eslint eslint-plugin-react mocha coffee-script webpack webpack-dev-server nodemon
 
-# Installing ruby & rails.
-# NOTE: This requires to have been 'source ~/.profile' before.
+# Installing node's global packages.
+npm install -g yo gulp grunt-cli eslint babel babel-eslint mocha coffee-script webpack webpack-dev-server nodemon
+
+
+# Installing ruby.
+# TODO: Set up gemset.
 rvm install 2.2.1
 rvm use 2.2.1
 rvm --default use 2.2.1
-gem install rails
 
+# installing rails.
+gem install rails
