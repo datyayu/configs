@@ -15,12 +15,13 @@ preinstall:
 
 system_installs:
 	# Installing Sistem stuff.
-	sudo apt-get install konsole python-software-properties software-properties-common zsh autoconf automake bison build-essential curl git-core libapr1 libaprutil1 libc6-dev libltdl-dev libreadline6 libreadline6-dev libsqlite3-0 libsqlite3-dev libssl-dev libtool libxml2-dev libxslt-dev libxslt1-dev libyaml-dev ncurses-dev nodejs openssl sqlite3 zlib1g zlib1g-dev
+	sudo apt-get install konsole python-software-properties software-properties-common zsh autoconf automake bison build-essential curl git-core libapr1 libaprutil1 libc6-dev libltdl-dev libreadline6 libreadline6-dev libsqlite3-0 libsqlite3-dev libssl-dev libtool libxml2-dev libxslt-dev libxslt1-dev libyaml-dev ncurses-dev nodejs openssl sqlite3 zlib1g zlib1g-dev ranger mpd ncmpcpp
 	# Getting oh-my-zsh.
 	curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 	# Install i3.
 	git clone git@github.com:o4dev/i3.git
 	cd i3
+	sudo apt-ge install i3wm-status
 	sudo make && make install
 
 
