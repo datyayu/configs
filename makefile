@@ -46,8 +46,8 @@ dev_packages:
 
 postinstall:
 	# Copy config files.
-	cp -r ~/.i3 ~/.mpd ~/.ncmpcpp ~/.zshrc ~/
+	cp -r .i3 .mpd .ncmpcpp .zshrc ~/
 	# Copy konsole's color scheme.
-	cp ./Custom theme.colorscheme ~/.kde/share/apps/konsole/
+	cp Custom\ theme.colorscheme ~/.local/share/konsole/
 	# Copy oh-my-zsh theme.
-	cp ./robby_minimal.zsh-theme ~/.oh-my-zsh/themes/
+	cp robby_minimal.zsh-theme ~/.oh-my-zsh/themes/
